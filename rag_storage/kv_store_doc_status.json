@@ -1,0 +1,83 @@
+{
+  "doc-e4fb1c97b7769e251a7547bddfe3214e": {
+    "status": "processed",
+    "chunks_count": 14,
+    "chunks_list": [
+      "chunk-2867489bfc50306cf700e8e575dff76e",
+      "chunk-bd824ceb871cfc87a7868c868181eaaf",
+      "chunk-7958d62ef2178d45fdd314d716b945ce",
+      "chunk-8592b2b6b35387d1d12080be6223ce15",
+      "chunk-0826b0f7fffa34c58341e345deadf986",
+      "chunk-1a7e6570ebf3412d42a00682e0582b15",
+      "chunk-76c8f38bb46808c3bda35a27be20dc5d",
+      "chunk-bea6cf75e866c72330ed337d9f357dd9",
+      "chunk-963cd7a91acc091b0215a79f85ffea4d",
+      "chunk-6016cccfa6edd7bb14766405519947d6",
+      "chunk-3bae529b595718be07dc653d7b2c7f06",
+      "chunk-ef566fa604fb11fa0fb712546748fe1f",
+      "chunk-552ebcf1fccab3b4f9bbbfd1567319d3",
+      "chunk-28470b0be8e993e924e0177e59076cc3"
+    ],
+    "content_summary": "Biofactor – Comprehensive Bio-Fertilizer\nInformation\nNovember 12, 2025\nContents\n1 Introduction 3\n2 FAQ & Answers on Bio-Fertilizers 3\n3 Product Information 4\n3.1 Aadhaar Gold & INM Chakra . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\n3....",
+    "content_length": 59766,
+    "created_at": "2025-12-10T09:52:30.530626+00:00",
+    "updated_at": "2025-12-10T09:57:03.510721+00:00",
+    "file_path": "Biofactor knowledge base 21112025.pdf",
+    "track_id": "upload_20251210_152228_cc78740d",
+    "metadata": {
+      "processing_start_time": 1765360350,
+      "processing_end_time": 1765360623
+    }
+  },
+  "doc-c2a92395ec33eca6930aa4773b37c49a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c2a92395ec33eca6930aa4773b37c49a"
+    ],
+    "content_summary": "FARM VAIDYA\n  \nAbout Us – We're a passionate team of experienced agriculture scientists, extension officers, AI engineers, and innovators using Gen AI to bridge knowledge gaps, empower farmers and agriculture input company (stakeholders), and drive s...",
+    "content_length": 4758,
+    "created_at": "2025-12-10T10:55:06.632453+00:00",
+    "updated_at": "2025-12-10T10:55:54.088191+00:00",
+    "file_path": "last farmvaidhya pipecat.docx",
+    "track_id": "upload_20251210_162503_a0922c73",
+    "metadata": {
+      "processing_start_time": 1765364106,
+      "processing_end_time": 1765364154
+    }
+  },
+  "doc-3737be66cf25b3630bc8bfcdedfb5adb": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3737be66cf25b3630bc8bfcdedfb5adb"
+    ],
+    "content_summary": "03-Day Online Certiﬁcation Program \nAI in Agriculture & Career Opportunities \n \nAbout the Program \nThe 3-Day Online Certiﬁcation Program on “Artiﬁcial Intelligence (AI) in Agriculture \n& Career Opportunities” is a focused learning initiative designed...",
+    "content_length": 3369,
+    "created_at": "2025-12-17T08:38:23.685044+00:00",
+    "updated_at": "2025-12-17T08:39:14.491583+00:00",
+    "file_path": "event.pdf",
+    "track_id": "upload_20251217_140822_a2fa7d07",
+    "metadata": {
+      "processing_start_time": 1765960703,
+      "processing_end_time": 1765960754
+    }
+  },
+  "doc-3f9b8a38dcf1f78c2db9ef660a7ab6cb": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb"
+    ],
+    "content_summary": "03-Day Online Certiﬁcation Program \nAI in Agriculture & Career Opportunities \n \nAbout the Program \nThe 3-Day Online Certiﬁcation Program on “Artiﬁcial Intelligence (AI) in Agriculture \n& Career Opportunities” is a focused learning initiative designed...",
+    "content_length": 3476,
+    "created_at": "2025-12-17T09:05:08.733722+00:00",
+    "updated_at": "2025-12-17T09:06:11.448547+00:00",
+    "file_path": "events.pdf",
+    "track_id": "upload_20251217_143508_cb2b9752",
+    "metadata": {
+      "processing_start_time": 1765962308,
+      "processing_end_time": 1765962371
+    }
+  }
+}

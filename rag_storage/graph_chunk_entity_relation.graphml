@@ -1,0 +1,3319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Bio-Fertilizers">
+  <data key="d0">Bio-Fertilizers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Bio-fertilizers are mixtures of live micro-organisms that provide essential nutrients to crops of agricultural importance.&lt;SEP&gt;Bio-fertilizers are mixtures of live microorganisms that provide essential nutrients to crops and are crucial for sustainable agriculture.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce&lt;SEP&gt;chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360446</data>
+  <data key="d6"></data>
+</node>
+<node id="Chemical Fertilizers">
+  <data key="d0">Chemical Fertilizers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Chemical fertilizers are synthetic compounds, such as Urea, DAP, Super Phosphate, and Zinc Sulphate, used to provide nutrients to plants but with limited availability to crops.&lt;SEP&gt;Chemical fertilizers are synthetic nutrients applied to soil to enhance plant growth, with specific application guidelines stated for use with mycorrhiza.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce&lt;SEP&gt;chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360446</data>
+  <data key="d6"></data>
+</node>
+<node id="Aadhaar Gold">
+  <data key="d0">Aadhaar Gold</data>
+  <data key="d1">product</data>
+  <data key="d2">Aadhaar Gold is a biofertilizer that provides complete NPK nutrition organically, utilizing encapsulated microbes for improved soil fertility.&lt;SEP&gt;Aadhaar Gold is a granular biofertilizer consortium designed to enhance soil fertility and crop productivity using bio-encapsulation technology and beneficial microorganisms.&lt;SEP&gt;Aadhaar Gold is a carrier consortium granular biofertilizer produced by Biofactor.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce&lt;SEP&gt;chunk-8592b2b6b35387d1d12080be6223ce15&lt;SEP&gt;chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360446</data>
+  <data key="d6"></data>
+</node>
+<node id="Biofac Inputs Private Limited">
+  <data key="d0">Biofac Inputs Private Limited</data>
+  <data key="d1">organization</data>
+  <data key="d2">Biofac Inputs Private Limited is the company that manufactures Aadhaar Gold, specializing in biofertilizers.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360447</data>
+  <data key="d6"></data>
+</node>
+<node id="Nitrogen">
+  <data key="d0">Nitrogen</data>
+  <data key="d1">nutrient</data>
+  <data key="d2">Nitrogen is an essential nutrient for plant growth, provided by bio-fertilizers through nitrogen-fixing micro-organisms.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360447</data>
+  <data key="d6"></data>
+</node>
+<node id="Phosphorus">
+  <data key="d0">Phosphorus</data>
+  <data key="d1">nutrient</data>
+  <data key="d2">Phosphorus is a crucial nutrient for plants that can be solubilized by phosphate-solubilizing bacteria in bio-fertilizers.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360447</data>
+  <data key="d6"></data>
+</node>
+<node id="Potash">
+  <data key="d0">Potash</data>
+  <data key="d1">nutrient</data>
+  <data key="d2">Potash is a nutrient for plants that is mobilized by potassium-mobilizing bacteria found in bio-fertilizers.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360447</data>
+  <data key="d6"></data>
+</node>
+<node id="Benefits of Bio-Fertilizers">
+  <data key="d0">Benefits of Bio-Fertilizers</data>
+  <data key="d1">concept</data>
+  <data key="d2">The benefits of bio-fertilizers include reduced chemical fertilizer use, increased crop yield, protection against soil diseases, and enhancement of soil micro-organism populations.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360447</data>
+  <data key="d6"></data>
+</node>
+<node id="Granular Biofertilizer Consortium">
+  <data key="d0">Granular Biofertilizer Consortium</data>
+  <data key="d1">category</data>
+  <data key="d2">Granular biofertilizer consortium represents a type of bio-fertilizer that combines multiple beneficial microbes for improved agricultural results.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360449</data>
+  <data key="d6"></data>
+</node>
+<node id="Zinc">
+  <data key="d0">Zinc</data>
+  <data key="d1">nutrient</data>
+  <data key="d2">Zinc is an essential nutrient for crops that is also included in bio-fertilizers as part of the nutrient mix.&lt;SEP&gt;Zinc is a nutrient in chelate form that is essential for plant growth and is important in horticultural crops.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce&lt;SEP&gt;chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360449</data>
+  <data key="d6"></data>
+</node>
+<node id="Iron">
+  <data key="d0">Iron</data>
+  <data key="d1">nutrient</data>
+  <data key="d2">Iron is another important nutrient provided to crops via bio-fertilizers, supporting healthy growth.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360449</data>
+  <data key="d6"></data>
+</node>
+<node id="Carrier Consortium Granular Biofertilizer">
+  <data key="d0">Carrier Consortium Granular Biofertilizer</data>
+  <data key="d1">category</data>
+  <data key="d2">Carrier consortium granular biofertilizer represents the specific category for Aadhaar Gold, highlighting its formulation and delivery method.</data>
+  <data key="d3">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360450</data>
+  <data key="d6"></data>
+</node>
+<node id="Bio-Encapsulation Technology">
+  <data key="d0">Bio-Encapsulation Technology</data>
+  <data key="d1">concept</data>
+  <data key="d2">Bio-Encapsulation Technology is an innovation used to ensure high shelf stability and prolonged microbial survival in fertilizers.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360450</data>
+  <data key="d6"></data>
+</node>
+<node id="Farmers">
+  <data key="d0">Farmers</data>
+  <data key="d1">person</data>
+  <data key="d2">Farmers are the target segment for Aadhaar Gold, focusing on those growing crops like paddy, cotton, sugarcane, and pulses.&lt;SEP&gt;Farmers are the primary beneficiaries of Farm Vaidya's technology, utilizing its services for crop advisory, input access, market information, and government schemes.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15&lt;SEP&gt;chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf&lt;SEP&gt;last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364137</data>
+  <data key="d6"></data>
+</node>
+<node id="INM-Chakra">
+  <data key="d0">INM-Chakra</data>
+  <data key="d1">product</data>
+  <data key="d2">INM-Chakra is a liquid formulation containing a bacterial consortium that provides a stable source of nitrogen, phosphorus, and potassium to improve soil fertility.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360450</data>
+  <data key="d6"></data>
+</node>
+<node id="GVAMSPF (Vesicular Arbuscular Mycorrhiza)">
+  <data key="d0">GVAMSPF (Vesicular Arbuscular Mycorrhiza)</data>
+  <data key="d1">product</data>
+  <data key="d2">GVAMSPF is a product that employs Bio-Encapsulation technology to deliver mycorrhiza, which enhances plant nutrient uptake.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360450</data>
+  <data key="d6"></data>
+</node>
+<node id="Biofactor">
+  <data key="d0">Biofactor</data>
+  <data key="d1">organization</data>
+  <data key="d2">Biofactor is the brand or company associated with the production of Aadhaar Gold and other biofertilizer products.&lt;SEP&gt;Biofactor is a leading innovator in the bio-fertilizer industry, committed to transforming agricultural practices through cutting-edge biotechnologies and enhancing soil health.&lt;SEP&gt;Biofactor is a company that produces comprehensive bio-fertilizers and related products.&lt;SEP&gt;Biofactor is the organization that developed the MAMSP (Microbe Metabolite Assisted Micron Sized Particles) technology for enhancing fertilizer efficiency.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15&lt;SEP&gt;chunk-bd824ceb871cfc87a7868c868181eaaf&lt;SEP&gt;chunk-963cd7a91acc091b0215a79f85ffea4d&lt;SEP&gt;chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360451</data>
+  <data key="d6"></data>
+</node>
+<node id="Crop Trials">
+  <data key="d0">Crop Trials</data>
+  <data key="d1">event</data>
+  <data key="d2">Crop Trials refer to multi-location demonstrations conducted to validate the effectiveness of Aadhaar Gold, showing yield impacts of 25–30%.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360451</data>
+  <data key="d6"></data>
+</node>
+<node id="Groundnut">
+  <data key="d0">Groundnut</data>
+  <data key="d1">product</data>
+  <data key="d2">Groundnut is a crop mentioned in the context of optimal cultivation practices, specifically regarding biofertilizer application.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360451</data>
+  <data key="d6"></data>
+</node>
+<node id="Pulses">
+  <data key="d0">Pulses</data>
+  <data key="d1">product</data>
+  <data key="d2">Pulses are crops referenced in the guidelines for applying biofertilizers like Aadhaar Gold and other formulations.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360452</data>
+  <data key="d6"></data>
+</node>
+<node id="Oilseeds">
+  <data key="d0">Oilseeds</data>
+  <data key="d1">product</data>
+  <data key="d2">Oilseeds are included as part of the target crops for biofertilizer usage according to the provided guidelines.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360452</data>
+  <data key="d6"></data>
+</node>
+<node id="Soil Application">
+  <data key="d0">Soil Application</data>
+  <data key="d1">method</data>
+  <data key="d2">Soil application is a method mentioned for applying biofertilizers during the vegetative stage of crops.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360452</data>
+  <data key="d6"></data>
+</node>
+<node id="Chemical Mixing">
+  <data key="d0">Chemical Mixing</data>
+  <data key="d1">concept</data>
+  <data key="d2">Chemical mixing refers to the guidelines regarding the compatibility of biofertilizers with other types of fertilizers.</data>
+  <data key="d3">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360452</data>
+  <data key="d6"></data>
+</node>
+<node id="IIHR-TV-5 Strain">
+  <data key="d0">IIHR-TV-5 Strain</data>
+  <data key="d1">data</data>
+  <data key="d2">IIHR-TV-5 strain (ITCC 6889) is used for scientific validation in agriculture to ensure reliability and success in reducing diseases.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360452</data>
+  <data key="d6"></data>
+</node>
+<node id="Farmers in Telangana and AP">
+  <data key="d0">Farmers in Telangana and AP</data>
+  <data key="d1">person</data>
+  <data key="d2">Farmers in Telangana and Andhra Pradesh observed visible reductions in disease and improved root vigor due to the use of IIHR-TV-5 strain.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360452</data>
+  <data key="d6"></data>
+</node>
+<node id="Native Neem">
+  <data key="d0">Native Neem</data>
+  <data key="d1">product</data>
+  <data key="d2">Native Neem is a botanical insecticide developed by Biofactor to manage pest populations sustainably.&lt;SEP&gt;Native Neem is a novel botanical insecticide containing Azadirachtin, effective against sap-sucking insects and early-stage caterpillars.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3&lt;SEP&gt;chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360453</data>
+  <data key="d6"></data>
+</node>
+<node id="Azadirachtin">
+  <data key="d0">Azadirachtin</data>
+  <data key="d1">data</data>
+  <data key="d2">Azadirachtin is the active ingredient in Native Neem, available in concentrations ranging from 300 to 10,000 ppm, used to control pest populations.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360454</data>
+  <data key="d6"></data>
+</node>
+<node id="TRAICORE">
+  <data key="d0">TRAICORE</data>
+  <data key="d1">product</data>
+  <data key="d2">TRAICORE is a plant growth regulator that enhances crop growth and development.&lt;SEP&gt;TRAICORE is a plant growth regulator with Tricontanol as its active ingredient, enhancing plant growth and productivity.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3&lt;SEP&gt;chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360454</data>
+  <data key="d6"></data>
+</node>
+<node id="Tricontanol">
+  <data key="d0">Tricontanol</data>
+  <data key="d1">data</data>
+  <data key="d2">Tricontanol is a natural long-chain alcohol used as an active ingredient in TRAICORE to improve photosynthesis and stress tolerance.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360454</data>
+  <data key="d6"></data>
+</node>
+<node id="Pentazia">
+  <data key="d0">Pentazia</data>
+  <data key="d1">product</data>
+  <data key="d2">Pentazia is an advanced biological fungicide designed to protect plants from fungal diseases.&lt;SEP&gt;Pentazia is an advanced biological fungicide that protects plants from fungal diseases and enhances disease resistance.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3&lt;SEP&gt;chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360454</data>
+  <data key="d6"></data>
+</node>
+<node id="NEOLIFE">
+  <data key="d0">NEOLIFE</data>
+  <data key="d1">product</data>
+  <data key="d2">NEOLIFE represents a soil health revolution focusing on microbiological solutions for soil enhancement.&lt;SEP&gt;NEOLIFE is a biological product aimed at revitalizing soil health through the introduction of beneficial microorganisms.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3&lt;SEP&gt;chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360454</data>
+  <data key="d6"></data>
+</node>
+<node id="DFUSE">
+  <data key="d0">DFUSE</data>
+  <data key="d1">product</data>
+  <data key="d2">DFUSE is a natural solution for managing larval pests in agricultural settings.&lt;SEP&gt;DFUSE is a microbial consortium designed to target larval pests, providing essential nutrients and improving soil health.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3&lt;SEP&gt;chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360454</data>
+  <data key="d6"></data>
+</node>
+<node id="DFNDR">
+  <data key="d0">DFNDR</data>
+  <data key="d1">product</data>
+  <data key="d2">DFNDR acts as a natural shield against sucking pests to protect crops effectively.&lt;SEP&gt;DFNDR is an eco-friendly solution for managing sucking pests while promoting balanced plant growth.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3&lt;SEP&gt;chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360455</data>
+  <data key="d6"></data>
+</node>
+<node id="Active Ingredient">
+  <data key="d0">Active Ingredient</data>
+  <data key="d1">concept</data>
+  <data key="d2">Active ingredient refers to the specific component in agricultural products that provides the primary intended effect against pests or diseases.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360455</data>
+  <data key="d6"></data>
+</node>
+<node id="Target Pests">
+  <data key="d0">Target Pests</data>
+  <data key="d1">category</data>
+  <data key="d2">Target pests are specific insects or organisms that a pesticide or biological control product aims to manage or eliminate.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360456</data>
+  <data key="d6"></data>
+</node>
+<node id="Mode of Action">
+  <data key="d0">Mode of Action</data>
+  <data key="d1">concept</data>
+  <data key="d2">Mode of action refers to the specific biological mechanism through which an active ingredient affects pests or diseases.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360456</data>
+  <data key="d6"></data>
+</node>
+<node id="Formulations &amp; Dosage">
+  <data key="d0">Formulations &amp; Dosage</data>
+  <data key="d1">concept</data>
+  <data key="d2">Formulations and dosage refer to the different concentrations and application methods of products used to achieve optimal effectiveness.</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360456</data>
+  <data key="d6"></data>
+</node>
+<node id="GVAMSPF">
+  <data key="d0">GVAMSPF</data>
+  <data key="d1">method</data>
+  <data key="d2">GVAMSPF refers to Vesicular Arbuscular Mycorrhiza, a bio-fertilizer product.&lt;SEP&gt;GVAMSPF is a method that uses Bio-encapsulation technology to deliver mycorrhizal spores for enhancing nutrient uptake in plants.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986&lt;SEP&gt;chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360457</data>
+  <data key="d6"></data>
+</node>
+<node id="Mycorrhiza">
+  <data key="d0">Mycorrhiza</data>
+  <data key="d1">microorganism</data>
+  <data key="d2">Mycorrhiza is a pivotal microorganism that aids in nutrient absorption, particularly phosphorus, for plant roots.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360457</data>
+  <data key="d6"></data>
+</node>
+<node id="Nitrogen Fixing Bacteria (N-Factor)">
+  <data key="d0">Nitrogen Fixing Bacteria (N-Factor)</data>
+  <data key="d1">microorganism</data>
+  <data key="d2">N-Factor bacteria stabilize nitrogen in the environment and convert atmospheric nitrogen into absorbable forms for plants.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360457</data>
+  <data key="d6"></data>
+</node>
+<node id="Phosphorus Solubilizing Bacteria (P-Factor)">
+  <data key="d0">Phosphorus Solubilizing Bacteria (P-Factor)</data>
+  <data key="d1">microorganism</data>
+  <data key="d2">P-Factor bacteria unlock phosphorus from neutral soil conditions, enhancing its availability for plants.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360458</data>
+  <data key="d6"></data>
+</node>
+<node id="Potassium Mobilizing Bacteria (K-Factor)">
+  <data key="d0">Potassium Mobilizing Bacteria (K-Factor)</data>
+  <data key="d1">microorganism</data>
+  <data key="d2">K-Factor bacteria mobilize potassium in the soil, improving its availability to plants and aiding plant growth.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360458</data>
+  <data key="d6"></data>
+</node>
+<node id="Bio-encapsulation Technology">
+  <data key="d0">Bio-encapsulation Technology</data>
+  <data key="d1">concept</data>
+  <data key="d2">Bio-encapsulation technology is a patented method used to package microorganisms for agricultural applications.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360458</data>
+  <data key="d6"></data>
+</node>
+<node id="Crop Duration">
+  <data key="d0">Crop Duration</data>
+  <data key="d1">concept</data>
+  <data key="d2">Crop duration refers to the length of time that crops are grown, categorized into short-term and long-term groups with different application frequencies for fertilizers.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360460</data>
+  <data key="d6"></data>
+</node>
+<node id="Granular Form">
+  <data key="d0">Granular Form</data>
+  <data key="d1">product</data>
+  <data key="d2">Granular form refers to the solid state in which some fertilizers, like mycorrhiza, are applied directly to the soil during planting or sowing.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360460</data>
+  <data key="d6"></data>
+</node>
+<node id="Liquid Form">
+  <data key="d0">Liquid Form</data>
+  <data key="d1">product</data>
+  <data key="d2">Liquid form refers to the state in which some fertilizers, like mycorrhiza, are applied directly to plant roots or through drip irrigation.</data>
+  <data key="d3">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360461</data>
+  <data key="d6"></data>
+</node>
+<node id="Department of Scientific and Industrial Research">
+  <data key="d0">Department of Scientific and Industrial Research</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Department of Scientific and Industrial Research is a government body in India that recognizes Biofactor’s R&amp;D laboratory.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360462</data>
+  <data key="d6"></data>
+</node>
+<node id="Government of India">
+  <data key="d0">Government of India</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Government of India oversees the Department of Scientific and Industrial Research, which recognizes advancements in agricultural innovation.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360462</data>
+  <data key="d6"></data>
+</node>
+<node id="Fertilizer Association of India">
+  <data key="d0">Fertilizer Association of India</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Fertilizer Association of India is an esteemed organization that Biofactor is a member of, enhancing its commitment to the agricultural community.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360463</data>
+  <data key="d6"></data>
+</node>
+<node id="Indian Council of Agricultural Research - Central Institute for Research on Cotton Textiles">
+  <data key="d0">Indian Council of Agricultural Research - Central Institute for Research on Cotton Textiles</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Indian Council of Agricultural Research - Central Institute for Research on Cotton Textiles is another esteemed organization associated with Biofactor.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360463</data>
+  <data key="d6"></data>
+</node>
+<node id="MAMSP Technology">
+  <data key="d0">MAMSP Technology</data>
+  <data key="d1">method</data>
+  <data key="d2">MAMSP technology is a groundbreaking method developed by Biofactor that revolutionizes nutrient delivery to plants by converting nutrients into micron-sized particles.&lt;SEP&gt;MAMSP Technology utilizes microbes to create micron-sized particles, improving nutrient availability and efficiency in fertilizers.&lt;SEP&gt;MAMSP (Microbe Assisted Microsize Particle) technology enhances nutrient availability and efficiency in soil.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf&lt;SEP&gt;chunk-963cd7a91acc091b0215a79f85ffea4d&lt;SEP&gt;chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360463</data>
+  <data key="d6"></data>
+</node>
+<node id="Proprietary Microbial Strains">
+  <data key="d0">Proprietary Microbial Strains</data>
+  <data key="d1">concept</data>
+  <data key="d2">Proprietary microbial strains developed by Biofactor are selected for their effectiveness in promoting soil health and supporting crop growth.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360464</data>
+  <data key="d6"></data>
+</node>
+<node id="Liquid Micronutrient Blends">
+  <data key="d0">Liquid Micronutrient Blends</data>
+  <data key="d1">product</data>
+  <data key="d2">Liquid Micronutrient Blends are formulated by Biofactor to enhance nutrient availability for crops.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360464</data>
+  <data key="d6"></data>
+</node>
+<node id="FLOWMIN">
+  <data key="d0">FLOWMIN</data>
+  <data key="d1">product</data>
+  <data key="d2">FLOWMIN is a product specially designed for drip irrigation to optimize water and nutrient delivery to plants.&lt;SEP&gt;FLOWMIN is a specially designed liquid fertilizer for drip irrigation, containing primary nutrients and micronutrients in nano size for efficient root absorption.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf&lt;SEP&gt;chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360464</data>
+  <data key="d6"></data>
+</node>
+<node id="Sampoorna">
+  <data key="d0">Sampoorna</data>
+  <data key="d1">product</data>
+  <data key="d2">Sampoorna is designed specifically for foliar nutrigation to support crop nutrient absorption.&lt;SEP&gt;Sampoorna is a series of foliar spray nutrient blends designed for efficient leaf absorption, suitable for all crops.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf&lt;SEP&gt;chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360466</data>
+  <data key="d6"></data>
+</node>
+<node id="Agriseal">
+  <data key="d0">Agriseal</data>
+  <data key="d1">product</data>
+  <data key="d2">Agriseal is a novel product developed by Biofactor for managing plant stress.&lt;SEP&gt;Agriseal is a liquid blend designed for stress management in plants, containing vitamin C, amino acids, and seaweed to alleviate climatic stresses.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf&lt;SEP&gt;chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360466</data>
+  <data key="d6"></data>
+</node>
+<node id="BOC">
+  <data key="d0">BOC</data>
+  <data key="d1">product</data>
+  <data key="d2">BOC, a novel product of liquid organic carbon, contributes to soil health and nutrient supply.&lt;SEP&gt;BOC is a novel product made from bio-organic carbon that enhances soil structure and nutrient availability for better crop growth.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf&lt;SEP&gt;chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360467</data>
+  <data key="d6"></data>
+</node>
+<node id="Invictus">
+  <data key="d0">Invictus</data>
+  <data key="d1">product</data>
+  <data key="d2">Invictus is a novel product aimed at combating soil-borne diseases, promoting healthier crops.&lt;SEP&gt;Invictus is a biological control mixture targeting soil-borne and airborne diseases with specific strains of Trichoderma.&lt;SEP&gt;Invictus is a novel soil-borne disease controller containing live Trichoderma viride culture that effectively controls various seed- and soil-borne pathogens.</data>
+  <data key="d3">chunk-bd824ceb871cfc87a7868c868181eaaf&lt;SEP&gt;chunk-552ebcf1fccab3b4f9bbbfd1567319d3&lt;SEP&gt;chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360467</data>
+  <data key="d6"></data>
+</node>
+<node id="PRITHVI">
+  <data key="d0">PRITHVI</data>
+  <data key="d1">product</data>
+  <data key="d2">PRITHVI is a liquid bio-fertilizer that controls sap-sucking pests and provides essential nutrients through bacteria.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360467</data>
+  <data key="d6"></data>
+</node>
+<node id="PROMOTE Phosphate Rich Organic Manure">
+  <data key="d0">PROMOTE Phosphate Rich Organic Manure</data>
+  <data key="d1">product</data>
+  <data key="d2">PROMOTE is an organic fertilizer that is rich in phosphorus and helps dissolve neutral-state phosphorus in soil for plant utilization.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360468</data>
+  <data key="d6"></data>
+</node>
+<node id="SUMCA Bio Enriched Organic Manure">
+  <data key="d0">SUMCA Bio Enriched Organic Manure</data>
+  <data key="d1">product</data>
+  <data key="d2">SUMCA is an organic fertilizer that provides nitrogen, phosphorus, potassium, and zinc, enhancing soil nutrient availability.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360468</data>
+  <data key="d6"></data>
+</node>
+<node id="Belom Series">
+  <data key="d0">Belom Series</data>
+  <data key="d1">product</data>
+  <data key="d2">The Belom Series is a combination of organic liquid nutrients formulated to provide necessary nutrients for various growth stages of crops.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360468</data>
+  <data key="d6"></data>
+</node>
+<node id="Bacteria">
+  <data key="d0">Bacteria</data>
+  <data key="d1">microorganism</data>
+  <data key="d2">Bacteria in the fertilizers play a crucial role by fighting pests and enhancing nutrient uptake in plants.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360469</data>
+  <data key="d6"></data>
+</node>
+<node id="Calcium">
+  <data key="d0">Calcium</data>
+  <data key="d1">concept</data>
+  <data key="d2">Calcium is a secondary nutrient required for crop growth and is mentioned as part of the dosage guidelines for fertilizers.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360470</data>
+  <data key="d6"></data>
+</node>
+<node id="Magnesium">
+  <data key="d0">Magnesium</data>
+  <data key="d1">concept</data>
+  <data key="d2">Magnesium is a secondary nutrient mentioned as necessary for crop growth and as part of fertilizer dosage.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360470</data>
+  <data key="d6"></data>
+</node>
+<node id="Sulphur">
+  <data key="d0">Sulphur</data>
+  <data key="d1">concept</data>
+  <data key="d2">Sulphur is a secondary nutrient required for crop growth and is noted in the context of fertilizer application.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360471</data>
+  <data key="d6"></data>
+</node>
+<node id="Liquid Organic Nutrients">
+  <data key="d0">Liquid Organic Nutrients</data>
+  <data key="d1">concept</data>
+  <data key="d2">Liquid organic nutrients are specially formulated to provide macronutrients and micronutrients essential for crop growth stages.</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360471</data>
+  <data key="d6"></data>
+</node>
+<node id="Poshak-L1">
+  <data key="d0">Poshak-L1</data>
+  <data key="d1">product</data>
+  <data key="d2">Poshak-L1 is a certified organic product designed for stage-specific nutrient delivery, with a three-year shelf life and a farmer-friendly dosage.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360471</data>
+  <data key="d6"></data>
+</node>
+<node id="Andhra Pradesh">
+  <data key="d0">Andhra Pradesh</data>
+  <data key="d1">location</data>
+  <data key="d2">Andhra Pradesh is a state in India, targeted for the use of Poshak-L1 among local farmers for crops like paddy and cotton.&lt;SEP&gt;Andhra Pradesh is a region where Invictus is used to prevent fungal infections in various crops.&lt;SEP&gt;Andhra Pradesh is a state in India identified as the target area for the conversational voice agents that will assist farmers with various agricultural services.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d&lt;SEP&gt;chunk-552ebcf1fccab3b4f9bbbfd1567319d3&lt;SEP&gt;chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf&lt;SEP&gt;last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364134</data>
+  <data key="d6"></data>
+</node>
+<node id="Telangana">
+  <data key="d0">Telangana</data>
+  <data key="d1">location</data>
+  <data key="d2">Telangana is a state in India where Poshak-L1 is marketed to address nutrient deficiencies in crops.&lt;SEP&gt;Telangana is a region where the effectiveness of Invictus in controlling soil-borne diseases has been demonstrated.&lt;SEP&gt;Telangana is a state in India mentioned as part of the target area for Farm Vaidya's initiatives aimed at empowering farmers through technology.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d&lt;SEP&gt;chunk-552ebcf1fccab3b4f9bbbfd1567319d3&lt;SEP&gt;chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf&lt;SEP&gt;last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364134</data>
+  <data key="d6"></data>
+</node>
+<node id="Maharashtra">
+  <data key="d0">Maharashtra</data>
+  <data key="d1">location</data>
+  <data key="d2">Maharashtra is a state in India involved in the use of Poshak-L1 for crops such as cotton and vegetables.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360473</data>
+  <data key="d6"></data>
+</node>
+<node id="Karnataka">
+  <data key="d0">Karnataka</data>
+  <data key="d1">location</data>
+  <data key="d2">Karnataka is a state in India that incorporates Poshak-L1 for balancing vegetative nutrition in paddy and horticultural crops.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360473</data>
+  <data key="d6"></data>
+</node>
+<node id="Potassium Thiosulphate">
+  <data key="d0">Potassium Thiosulphate</data>
+  <data key="d1">product</data>
+  <data key="d2">Potassium Thiosulphate is a liquid nutrient mixture providing potassium, formulated to enhance flowering and fruiting in crops.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360474</data>
+  <data key="d6"></data>
+</node>
+<node id="Chelated Zinc as Zinc Glycine">
+  <data key="d0">Chelated Zinc as Zinc Glycine</data>
+  <data key="d1">product</data>
+  <data key="d2">Chelated Zinc as Zinc Glycine is a liquid nutrient mixture designed to provide zinc in a stable, chelated form, important for horticultural crops.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360474</data>
+  <data key="d6"></data>
+</node>
+<node id="Other Organic Manures">
+  <data key="d0">Other Organic Manures</data>
+  <data key="d1">product</data>
+  <data key="d2">Other Organic Manures are general-purpose organic fertilizers characterized by delayed results, offering a nutrient consistency of 800–1000/L.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360475</data>
+  <data key="d6"></data>
+</node>
+<node id="Trial Data">
+  <data key="d0">Trial Data</data>
+  <data key="d1">data</data>
+  <data key="d2">Trial Data refers to demonstrations conducted in paddy and cotton fields across Andhra Pradesh and Telangana to validate the effectiveness of Poshak-L1.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360475</data>
+  <data key="d6"></data>
+</node>
+<node id="Farmer Feedback">
+  <data key="d0">Farmer Feedback</data>
+  <data key="d1">data</data>
+  <data key="d2">Farmer Feedback is the response from farmers indicating healthier soil, reduced dependency on chemicals, and repeat adoption of Poshak-L1.</data>
+  <data key="d3">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360475</data>
+  <data key="d6"></data>
+</node>
+<node id="Copper Sulphate">
+  <data key="d0">Copper Sulphate</data>
+  <data key="d1">product</data>
+  <data key="d2">Copper Sulphate is a nutrient blend enriched with 24% copper, formulated to improve plant health and resistance to diseases.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360475</data>
+  <data key="d6"></data>
+</node>
+<node id="MAMS Technology">
+  <data key="d0">MAMS Technology</data>
+  <data key="d1">method</data>
+  <data key="d2">MAMS Technology is a method used to formulate micronutrient mixtures for enhanced absorption by plants.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360476</data>
+  <data key="d6"></data>
+</node>
+<node id="BSL4Agri">
+  <data key="d0">BSL4Agri</data>
+  <data key="d1">product</data>
+  <data key="d2">BSL4Agri is a novel product from Biofactor intended for addressing viral diseases.&lt;SEP&gt;BSL4Agri is a liquid nutrient mixture containing silver and copper designed to combat viral diseases in plants.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06&lt;SEP&gt;chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360476</data>
+  <data key="d6"></data>
+</node>
+<node id="NUTRI6">
+  <data key="d0">NUTRI6</data>
+  <data key="d1">product</data>
+  <data key="d2">NUTRI6 is a liquid micronutrient blend that contains zinc and iron, aimed at preventing micronutrient deficiencies in crops.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360477</data>
+  <data key="d6"></data>
+</node>
+<node id="Nutrito6">
+  <data key="d0">Nutrito6</data>
+  <data key="d1">product</data>
+  <data key="d2">Nutrito6 is a liquid micronutrient blend with a different composition than NUTRI6, designed to support crop health and resist virus infections.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360477</data>
+  <data key="d6"></data>
+</node>
+<node id="Drop Method">
+  <data key="d0">Drop Method</data>
+  <data key="d1">method</data>
+  <data key="d2">Drop Method refers to the technique of irrigating fields where nutrient solutions are directly applied near water pipes or canals for even distribution.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360479</data>
+  <data key="d6"></data>
+</node>
+<node id="Enzymes">
+  <data key="d0">Enzymes</data>
+  <data key="d1">concept</data>
+  <data key="d2">Enzymes are biological catalysts that facilitate processes such as photosynthesis, respiration, and nitrogen metabolism.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360479</data>
+  <data key="d6"></data>
+</node>
+<node id="Nitrogen Metabolism">
+  <data key="d0">Nitrogen Metabolism</data>
+  <data key="d1">concept</data>
+  <data key="d2">Nitrogen Metabolism involves biochemical processes that convert nitrogen into forms usable by plants for growth and development.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360479</data>
+  <data key="d6"></data>
+</node>
+<node id="Fungal Growth">
+  <data key="d0">Fungal Growth</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fungal Growth refers to the proliferation of fungi, which can adversely affect plant health and yields.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360480</data>
+  <data key="d6"></data>
+</node>
+<node id="Water Stress">
+  <data key="d0">Water Stress</data>
+  <data key="d1">concept</data>
+  <data key="d2">Water Stress describes the condition when plants do not receive sufficient water, affecting their growth and productivity.</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360480</data>
+  <data key="d6"></data>
+</node>
+<node id="Trichoderma Viride">
+  <data key="d0">Trichoderma Viride</data>
+  <data key="d1">organism</data>
+  <data key="d2">Trichoderma viride is a fungus used in Invictus for biological control, known for its effectiveness against several fungal pathogens.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360480</data>
+  <data key="d6"></data>
+</node>
+<node id="Rhizoctonia Solani">
+  <data key="d0">Rhizoctonia Solani</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">Rhizoctonia solani is a soil-borne pathogen that Invictus helps to control, associated with root rot in plants.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360480</data>
+  <data key="d6"></data>
+</node>
+<node id="Fusarium">
+  <data key="d0">Fusarium</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">Fusarium is a genus of fungi that includes species harmful to crops, controlled by Invictus.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360482</data>
+  <data key="d6"></data>
+</node>
+<node id="Pythium">
+  <data key="d0">Pythium</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">Pythium is a group of water mold pathogens that Invictus effectively combats.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360483</data>
+  <data key="d6"></data>
+</node>
+<node id="Phytophthora">
+  <data key="d0">Phytophthora</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">Phytophthora is a pathogen responsible for diseases in various crops, targeted by Invictus.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360483</data>
+  <data key="d6"></data>
+</node>
+<node id="Verticillium">
+  <data key="d0">Verticillium</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">Verticillium is a genus of fungi that causes wilt in plants, which Invictus helps to suppress.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360483</data>
+  <data key="d6"></data>
+</node>
+<node id="Alternaria">
+  <data key="d0">Alternaria</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">Alternaria is a genus of fungi known for causing leaf spot diseases, which Invictus can mitigate.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360484</data>
+  <data key="d6"></data>
+</node>
+<node id="Colletotrichum">
+  <data key="d0">Colletotrichum</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">Colletotrichum is a genus of fungi that causes anthracnose disease in crops, controlled by Invictus.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360484</data>
+  <data key="d6"></data>
+</node>
+<node id="Cercospora">
+  <data key="d0">Cercospora</data>
+  <data key="d1">pathogen</data>
+  <data key="d2">Cercospora is a genus of fungi responsible for numerous plant diseases, which Invictus addresses.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360484</data>
+  <data key="d6"></data>
+</node>
+<node id="Tomato">
+  <data key="d0">Tomato</data>
+  <data key="d1">crop</data>
+  <data key="d2">Tomato is a crop susceptible to root rot and damping-off, where Invictus is recommended for use.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360484</data>
+  <data key="d6"></data>
+</node>
+<node id="Okra">
+  <data key="d0">Okra</data>
+  <data key="d1">crop</data>
+  <data key="d2">Okra is a crop that can suffer from seed and soil-borne diseases, where Invictus can be applied.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360486</data>
+  <data key="d6"></data>
+</node>
+<node id="Potato">
+  <data key="d0">Potato</data>
+  <data key="d1">crop</data>
+  <data key="d2">Potato is a crop at risk for soil-borne rot, for which Invictus is utilized as a preventative measure.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360487</data>
+  <data key="d6"></data>
+</node>
+<node id="Chilli">
+  <data key="d0">Chilli</data>
+  <data key="d1">crop</data>
+  <data key="d2">Chilli is a crop prone to wilt and root rot, where Invictus is suggested for application.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360487</data>
+  <data key="d6"></data>
+</node>
+<node id="IIHR-TV-5">
+  <data key="d0">IIHR-TV-5</data>
+  <data key="d1">strain</data>
+  <data key="d2">IIHR-TV-5 is a validated strain of Trichoderma viride used in Invictus for reliable disease control.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360487</data>
+  <data key="d6"></data>
+</node>
+<node id="Carboxy Methyl Cellulose">
+  <data key="d0">Carboxy Methyl Cellulose</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Carboxy Methyl Cellulose is an ingredient in Invictus contributing to the formulation's effectiveness as a soil-borne disease controller.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360487</data>
+  <data key="d6"></data>
+</node>
+<node id="Talc">
+  <data key="d0">Talc</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Talc serves as a carrier in the formulation of Invictus, making up a significant portion of the product.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360488</data>
+  <data key="d6"></data>
+</node>
+<node id="Organic Systems">
+  <data key="d0">Organic Systems</data>
+  <data key="d1">concept</data>
+  <data key="d2">Organic systems refer to agricultural practices that avoid synthetic chemicals, with Invictus being safe and compatible for such systems.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360489</data>
+  <data key="d6"></data>
+</node>
+<node id="Biofertilizers">
+  <data key="d0">Biofertilizers</data>
+  <data key="d1">product</data>
+  <data key="d2">Biofertilizers are organic fertilizers that can be used in conjunction with Invictus, enhancing soil health.</data>
+  <data key="d3">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360489</data>
+  <data key="d6"></data>
+</node>
+<node id="Poshak Level-1">
+  <data key="d0">Poshak Level-1</data>
+  <data key="d1">product</data>
+  <data key="d2">Poshak Level-1 is a liquid fermented organic fertilizer listed among Biofactor's products.&lt;SEP&gt;Poshak Level-1 is a liquid fermented organic fertilizer designed specifically for use during the vegetative stage of plant growth, promoting healthy foliage and root development.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9&lt;SEP&gt;chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360490</data>
+  <data key="d6"></data>
+</node>
+<node id="Biofac Inputs Pvt. Ltd.">
+  <data key="d0">Biofac Inputs Pvt. Ltd.</data>
+  <data key="d1">organization</data>
+  <data key="d2">Biofac Inputs Pvt. Ltd. is the manufacturer of Poshak Level-1 and is based in Sangareddy, providing agricultural products.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360490</data>
+  <data key="d6"></data>
+</node>
+<node id="Vegetative Stage">
+  <data key="d0">Vegetative Stage</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Vegetative Stage is a growth stage for plants requiring specific macronutrients essential for strong root and foliage development.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360491</data>
+  <data key="d6"></data>
+</node>
+<node id="Flowering Stage">
+  <data key="d0">Flowering Stage</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Flowering Stage is a plant growth stage requiring specific macronutrients and secondary nutrients for optimal flower and pod production.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360491</data>
+  <data key="d6"></data>
+</node>
+<node id="Fruiting Stage">
+  <data key="d0">Fruiting Stage</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Fruiting Stage is a phase where plants need specific macro and micronutrients for pod formation and fruit quality enhancement.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360491</data>
+  <data key="d6"></data>
+</node>
+<node id="Crop Mapping">
+  <data key="d0">Crop Mapping</data>
+  <data key="d1">concept</data>
+  <data key="d2">Crop Mapping refers to the process of associating specific nutrients with their effects on different crops during growth stages.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360491</data>
+  <data key="d6"></data>
+</node>
+<node id="Paddy">
+  <data key="d0">Paddy</data>
+  <data key="d1">crop</data>
+  <data key="d2">Paddy is a crop that benefits from Poshak Level-1 applications, particularly when facing nutrient loss and weak roots.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360491</data>
+  <data key="d6"></data>
+</node>
+<node id="Cotton">
+  <data key="d0">Cotton</data>
+  <data key="d1">crop</data>
+  <data key="d2">Cotton is a crop that requires specific nutrients provided by Poshak Level-1 for enhanced vegetative growth and branching.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360492</data>
+  <data key="d6"></data>
+</node>
+<node id="Vegetables">
+  <data key="d0">Vegetables</data>
+  <data key="d1">crop</data>
+  <data key="d2">Vegetables are crops that require Poshak Level-1 to address poor nutrient availability and soil health issues.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360493</data>
+  <data key="d6"></data>
+</node>
+<node id="Organic Fertilizer">
+  <data key="d0">Organic Fertilizer</data>
+  <data key="d1">product</data>
+  <data key="d2">Organic Fertilizer is the product name for Poshak Level-1, which is designed to improve plant health during various growth stages.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360493</data>
+  <data key="d6"></data>
+</node>
+<node id="Liquid Fermented Organic Fertilizer">
+  <data key="d0">Liquid Fermented Organic Fertilizer</data>
+  <data key="d1">method</data>
+  <data key="d2">Liquid Fermented Organic Fertilizer refers to the type of product that Poshak Level-1 is classified as, highlighting its fermentation process and liquid application form.</data>
+  <data key="d3">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360494</data>
+  <data key="d6"></data>
+</node>
+<node id="CANMAG">
+  <data key="d0">CANMAG</data>
+  <data key="d1">product</data>
+  <data key="d2">CANMAG is a nutrient product containing nitrogen, calcium, and magnesium, utilized in agricultural practices for plant growth.</data>
+  <data key="d3">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360494</data>
+  <data key="d6"></data>
+</node>
+<node id="Trichoderma Viridae">
+  <data key="d0">Trichoderma Viridae</data>
+  <data key="d1">organism</data>
+  <data key="d2">Trichoderma Viridae is a beneficial fungus used in agricultural products to control root rot and various fungal diseases.</data>
+  <data key="d3">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360495</data>
+  <data key="d6"></data>
+</node>
+<node id="Trichoderma Harzianum">
+  <data key="d0">Trichoderma Harzianum</data>
+  <data key="d1">organism</data>
+  <data key="d2">Trichoderma Harzianum is a species of Trichoderma used for similar disease control as Trichoderma Viridae in agricultural applications.</data>
+  <data key="d3">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360495</data>
+  <data key="d6"></data>
+</node>
+<node id="Reacting Diseases">
+  <data key="d0">Reacting Diseases</data>
+  <data key="d1">concept</data>
+  <data key="d2">Reacting diseases refer to crop-damaging diseases that can be controlled by biological control agents like Trichoderma.</data>
+  <data key="d3">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360496</data>
+  <data key="d6"></data>
+</node>
+<node id="6 Agriseal">
+  <data key="d0">6 Agriseal</data>
+  <data key="d1">product</data>
+  <data key="d2">6 Agriseal is a novel product designed for stress management in crops, containing a liquid blend that helps plants cope with various environmental stresses.</data>
+  <data key="d3">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360496</data>
+  <data key="d6"></data>
+</node>
+<node id="56-00-18">
+  <data key="d0">56-00-18</data>
+  <data key="d1">product</data>
+  <data key="d2">56-00-18 is a nutrient formulation with specific nitrogen, phosphorus, and potassium content designed for use in the flowering and fruiting stages of crop growth.</data>
+  <data key="d3">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360497</data>
+  <data key="d6"></data>
+</node>
+<node id="INM Chakra">
+  <data key="d0">INM Chakra</data>
+  <data key="d1">product</data>
+  <data key="d2">INM Chakra is another bio-fertilizer product associated with Biofactor, included in its offerings.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360497</data>
+  <data key="d6"></data>
+</node>
+<node id="N-Factor">
+  <data key="d0">N-Factor</data>
+  <data key="d1">product</data>
+  <data key="d2">N-Factor is a type of nitrogen-fixing bacteria used in Biofactor's products.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e&lt;SEP&gt;chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360497</data>
+  <data key="d6"></data>
+</node>
+<node id="P-Factor">
+  <data key="d0">P-Factor</data>
+  <data key="d1">product</data>
+  <data key="d2">P-Factor is a type of phosphorus-solubilizing bacteria utilized in Biofactor's bio-fertilizers.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e&lt;SEP&gt;chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360497</data>
+  <data key="d6"></data>
+</node>
+<node id="K-Factor">
+  <data key="d0">K-Factor</data>
+  <data key="d1">product</data>
+  <data key="d2">K-Factor is a product associated with Biofactor, although details are not provided.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e&lt;SEP&gt;chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360498</data>
+  <data key="d6"></data>
+</node>
+<node id="ZN-Factor">
+  <data key="d0">ZN-Factor</data>
+  <data key="d1">product</data>
+  <data key="d2">ZN-Factor is another product from Biofactor mentioned in the context of their offerings.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360498</data>
+  <data key="d6"></data>
+</node>
+<node id="Bio Fertilize">
+  <data key="d0">Bio Fertilize</data>
+  <data key="d1">product</data>
+  <data key="d2">Bio Fertilize is a product marketed by Biofactor, specifics not detailed in the text.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360499</data>
+  <data key="d6"></data>
+</node>
+<node id="BIO TRIPLE ACTION PROGRAM">
+  <data key="d0">BIO TRIPLE ACTION PROGRAM</data>
+  <data key="d1">program</data>
+  <data key="d2">BIO TRIPLE ACTION PROGRAM is a program related to the use of Biofactor's products to mitigate stress on plants.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360500</data>
+  <data key="d6"></data>
+</node>
+<node id="BIO DOUBLE ACTION PROGRAM">
+  <data key="d0">BIO DOUBLE ACTION PROGRAM</data>
+  <data key="d1">program</data>
+  <data key="d2">BIO DOUBLE ACTION PROGRAM is another program associated with Biofactor’s product application.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360500</data>
+  <data key="d6"></data>
+</node>
+<node id="Biopotash">
+  <data key="d0">Biopotash</data>
+  <data key="d1">product</data>
+  <data key="d2">Biopotash is a product mentioned within the offerings of Biofactor.&lt;SEP&gt;Biopotash is a collection of bacteria specialized in solubilizing potash, enhancing its availability for plant uptake.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e&lt;SEP&gt;chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360500</data>
+  <data key="d6"></data>
+</node>
+<node id="CHELATED ZINC AS ZINC GLYCINE">
+  <data key="d0">CHELATED ZINC AS ZINC GLYCINE</data>
+  <data key="d1">product</data>
+  <data key="d2">CHELATED ZINC AS ZINC GLYCINE is a liquid chemical fertilizer available from Biofactor.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360500</data>
+  <data key="d6"></data>
+</node>
+<node id="CHELATED BORON AS BORON GLYCINE">
+  <data key="d0">CHELATED BORON AS BORON GLYCINE</data>
+  <data key="d1">product</data>
+  <data key="d2">CHELATED BORON AS BORON GLYCINE is another liquid chemical fertilizer provided by Biofactor.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360500</data>
+  <data key="d6"></data>
+</node>
+<node id="Ferron">
+  <data key="d0">Ferron</data>
+  <data key="d1">product</data>
+  <data key="d2">Ferron is a product that is part of the chemical fertilizers offered by Biofactor.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360502</data>
+  <data key="d6"></data>
+</node>
+<node id="MAGNESIUM HYDROXIDE AND ZINC PHOSPHATE">
+  <data key="d0">MAGNESIUM HYDROXIDE AND ZINC PHOSPHATE</data>
+  <data key="d1">product</data>
+  <data key="d2">MAGNESIUM HYDROXIDE AND ZINC PHOSPHATE is listed as one of Biofactor's chemical fertilizer products.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360502</data>
+  <data key="d6"></data>
+</node>
+<node id="TRuMiN">
+  <data key="d0">TRuMiN</data>
+  <data key="d1">product</data>
+  <data key="d2">TRuMiN is described as a manganese carbonate suspension concentrate offered by Biofactor.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360502</data>
+  <data key="d6"></data>
+</node>
+<node id="COPSE">
+  <data key="d0">COPSE</data>
+  <data key="d1">product</data>
+  <data key="d2">COPSE is a 24% copper sulfate product included in the Biofactor product line.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360503</data>
+  <data key="d6"></data>
+</node>
+<node id="Liquid Micronutrients">
+  <data key="d0">Liquid Micronutrients</data>
+  <data key="d1">product</data>
+  <data key="d2">Liquid Micronutrients are referred to in the context of Biofactor's offerings related to fertilizers.</data>
+  <data key="d3">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360504</data>
+  <data key="d6"></data>
+</node>
+<node id="ZN-FACTOR">
+  <data key="d0">ZN-FACTOR</data>
+  <data key="d1">concept</data>
+  <data key="d2">ZN-FACTOR represents free-living or endophytic bacteria that participate in the solubilization of zinc in the soil, enhancing its availability to plants.</data>
+  <data key="d3">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360504</data>
+  <data key="d6"></data>
+</node>
+<node id="Bio Fertilizer">
+  <data key="d0">Bio Fertilizer</data>
+  <data key="d1">concept</data>
+  <data key="d2">Bio Fertilizer is a type of fertilizer containing beneficial bacteria that enhance nutrient availability and improve crop yield.</data>
+  <data key="d3">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360504</data>
+  <data key="d6"></data>
+</node>
+<node id="Bio Triple Action Program">
+  <data key="d0">Bio Triple Action Program</data>
+  <data key="d1">method</data>
+  <data key="d2">Bio Triple Action Program involves locally adapted bacteria that provide nitrogen, phosphorus, and potash to plants, enhancing crop yields.</data>
+  <data key="d3">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360504</data>
+  <data key="d6"></data>
+</node>
+<node id="Bio Double Action Program">
+  <data key="d0">Bio Double Action Program</data>
+  <data key="d1">method</data>
+  <data key="d2">Bio Double Action Program consists of bacteria that fix nitrogen from the air and solubilize phosphorus, improving plant nutrition.</data>
+  <data key="d3">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360504</data>
+  <data key="d6"></data>
+</node>
+<node id="Proceed – Biotic &amp; Abiotic Stress Relieve">
+  <data key="d0">Proceed – Biotic &amp; Abiotic Stress Relieve</data>
+  <data key="d1">content</data>
+  <data key="d2">Proceed is a liquid bio-fertilizer designed to help plants cope with abiotic and biotic stress through the provision of key nutrients.</data>
+  <data key="d3">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360505</data>
+  <data key="d6"></data>
+</node>
+<node id="Chemical Potassium Fertilizers">
+  <data key="d0">Chemical Potassium Fertilizers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Chemical potassium fertilizers are synthetic fertilizers used to supply potassium to plants, the need for which is reduced by 20-25% through alternative methods mentioned in the text.</data>
+  <data key="d3">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360506</data>
+  <data key="d6"></data>
+</node>
+<node id="Seed Treatment">
+  <data key="d0">Seed Treatment</data>
+  <data key="d1">method</data>
+  <data key="d2">Seed treatment is a method of applying fertilizers or protectants to seeds prior to planting to promote better growth and disease resistance.</data>
+  <data key="d3">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360506</data>
+  <data key="d6"></data>
+</node>
+<node id="Foliar Spray">
+  <data key="d0">Foliar Spray</data>
+  <data key="d1">method</data>
+  <data key="d2">Foliar spray is a technique of applying liquid fertilizers or nutrients directly to the leaves of plants to enhance nutrient uptake during various growth stages.</data>
+  <data key="d3">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360507</data>
+  <data key="d6"></data>
+</node>
+<node id="Liquid Nutrient Mixture">
+  <data key="d0">Liquid Nutrient Mixture</data>
+  <data key="d1">concept</data>
+  <data key="d2">Liquid nutrient mixture that provides zinc and other nutrients, formulated using Microbe Assisted Microsize Particle technology.</data>
+  <data key="d3">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360507</data>
+  <data key="d6"></data>
+</node>
+<node id="Zinc Deficiency">
+  <data key="d0">Zinc Deficiency</data>
+  <data key="d1">concept</data>
+  <data key="d2">Zinc deficiency leads to symptoms such as yellowing and browning of tender leaves in plants.</data>
+  <data key="d3">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360508</data>
+  <data key="d6"></data>
+</node>
+<node id="Boron Glycine">
+  <data key="d0">Boron Glycine</data>
+  <data key="d1">product</data>
+  <data key="d2">Boron Glycine is a liquid nutrient mixture providing boron, important for horticultural crops.</data>
+  <data key="d3">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360508</data>
+  <data key="d6"></data>
+</node>
+<node id="Iron Nutrient">
+  <data key="d0">Iron Nutrient</data>
+  <data key="d1">element</data>
+  <data key="d2">Iron is a nutrient essential for photosynthesis and various biological functions in plants.</data>
+  <data key="d3">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360508</data>
+  <data key="d6"></data>
+</node>
+<node id="Magnesium Hydroxide and Zinc Phosphate">
+  <data key="d0">Magnesium Hydroxide and Zinc Phosphate</data>
+  <data key="d1">product</data>
+  <data key="d2">A liquid nutrient mixture providing magnesium and zinc, formulated to aid plant growth and nutrient transport.</data>
+  <data key="d3">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360508</data>
+  <data key="d6"></data>
+</node>
+<node id="Manganese Carbonate">
+  <data key="d0">Manganese Carbonate</data>
+  <data key="d1">product</data>
+  <data key="d2">Manganese Carbonate is a liquid nutrient providing manganese necessary for photosynthesis and nutrient metabolism.</data>
+  <data key="d3">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360510</data>
+  <data key="d6"></data>
+</node>
+<node id="Nutrient Mixture">
+  <data key="d0">Nutrient Mixture</data>
+  <data key="d1">concept</data>
+  <data key="d2">A general term for mixtures that provide essential nutrients to plants, formulated for agricultural use.</data>
+  <data key="d3">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360510</data>
+  <data key="d6"></data>
+</node>
+<node id="Deficiency Symptoms">
+  <data key="d0">Deficiency Symptoms</data>
+  <data key="d1">concept</data>
+  <data key="d2">Symptoms indicating a lack of specific nutrients in plants, affecting growth and health.</data>
+  <data key="d3">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360510</data>
+  <data key="d6"></data>
+</node>
+<node id="fungal diseases">
+  <data key="d0">fungal diseases</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d2">Pentazia provides powerful control against fungal diseases, offering vital nutrients to plants.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360523</data>
+  <data key="d6"></data>
+</node>
+<node id="beneficial microorganisms">
+  <data key="d0">beneficial microorganisms</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d2">NEOLIFE revitalizes soil by adding beneficial microorganisms, enhancing growth and productivity.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360523</data>
+  <data key="d6"></data>
+</node>
+<node id="larval pests">
+  <data key="d0">larval pests</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d2">DFUSE effectively targets larval pests and provides essential nutrients to plants.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360525</data>
+  <data key="d6"></data>
+</node>
+<node id="sucking pests">
+  <data key="d0">sucking pests</data>
+  <data key="d3">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d2">DFNDR is used as an eco-friendly method to manage sucking pests while promoting balanced plant growth and stress tolerance.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360525</data>
+  <data key="d6"></data>
+</node>
+<node id="Belom S-1">
+  <data key="d0">Belom S-1</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d2">Belom S-1 provides main nutrients essential for vegetative growth through liquid organic nutrients.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360553</data>
+  <data key="d6"></data>
+</node>
+<node id="Belom S-2">
+  <data key="d0">Belom S-2</data>
+  <data key="d3">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d2">Belom S-2 supplies nutrients needed for the flowering stage using liquid organic nutrients.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360558</data>
+  <data key="d6"></data>
+</node>
+<node id="Plants">
+  <data key="d0">Plants</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06&lt;SEP&gt;chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d2">Copper Sulphate is applied to plants to enhance nutrient absorption and support growth.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360561</data>
+  <data key="d6"></data>
+</node>
+<node id="Nutrient Solutions">
+  <data key="d0">Nutrient Solutions</data>
+  <data key="d3">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d2">Drop Method is used for delivering nutrient solutions efficiently in fields, ensuring even distribution until watering occurs.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360565</data>
+  <data key="d6"></data>
+</node>
+<node id="Crops">
+  <data key="d0">Crops</data>
+  <data key="d3">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d2">Sampoorna is utilized to support all crops with its designed foliar nutrient blends.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360581</data>
+  <data key="d6"></data>
+</node>
+<node id="Soil">
+  <data key="d0">Soil</data>
+  <data key="d3">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d2">BOC enhances soil structure and nutrient availability, improving crop growth conditions.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d5">1765360584</data>
+  <data key="d6"></data>
+</node>
+<node id="Farm Vaidya">
+  <data key="d0">Farm Vaidya</data>
+  <data key="d1">organization</data>
+  <data key="d2">Farm Vaidya is an organization formed by a team of agriculture scientists, extension officers, AI engineers, and innovators focused on using Generative AI to improve agricultural practices for farmers and agri-input companies.</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364133</data>
+  <data key="d6"></data>
+</node>
+<node id="Dr Ramadugu Praveen">
+  <data key="d0">Dr Ramadugu Praveen</data>
+  <data key="d1">person</data>
+  <data key="d2">Dr Ramadugu Praveen is the Founder and CEO of Farm Vaidya, with nine years of horticultural educational experience and over 14 years in various agricultural fields.</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364133</data>
+  <data key="d6"></data>
+</node>
+<node id="G Jyotsna">
+  <data key="d0">G Jyotsna</data>
+  <data key="d1">person</data>
+  <data key="d2">G Jyotsna is a Co-Founder and COO of Farm Vaidya, contributing to the organization’s mission and vision.</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364133</data>
+  <data key="d6"></data>
+</node>
+<node id="Generative AI">
+  <data key="d0">Generative AI</data>
+  <data key="d1">concept</data>
+  <data key="d2">Generative AI is a technology used by Farm Vaidya to develop conversational voice agents that assist farmers and stakeholders in agriculture.&lt;SEP&gt;Generative AI pertains to AI systems that can generate content and has applications in agriculture through voice technology.&lt;SEP&gt;Generative AI refers to a technology that creates content based on input data and is included in the program's curriculum.</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a&lt;SEP&gt;chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">last farmvaidhya pipecat.docx&lt;SEP&gt;event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962341</data>
+  <data key="d6"></data>
+</node>
+<node id="Rythuvaani">
+  <data key="d0">Rythuvaani</data>
+  <data key="d1">project</data>
+  <data key="d2">Rythuvaani is a project aimed at building a Telugu agriculture domain-specific dataset for developing a Speech-to-Text system that comprehends regional dialects and conversational speech.</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364134</data>
+  <data key="d6"></data>
+</node>
+<node id="Automatic Speech Recognition (ASR)">
+  <data key="d0">Automatic Speech Recognition (ASR)</data>
+  <data key="d1">method</data>
+  <data key="d2">Automatic Speech Recognition refers to the technology that enables digital platforms to interact with users through voice, focusing on the agricultural sector in this context.</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364134</data>
+  <data key="d6"></data>
+</node>
+<node id="Agricultural Intelligence">
+  <data key="d0">Agricultural Intelligence</data>
+  <data key="d1">concept</data>
+  <data key="d2">Agricultural Intelligence refers to the advanced knowledge and practices in agriculture, including the utilization of Generative AI technology to improve farming methods and communication.</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364136</data>
+  <data key="d6"></data>
+</node>
+<node id="Conversational Voice Agents">
+  <data key="d0">Conversational Voice Agents</data>
+  <data key="d1">method</data>
+  <data key="d2">Conversational Voice Agents are AI-driven tools developed by Farm Vaidya to provide real-time agricultural solutions in regional languages.</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d4">last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364136</data>
+  <data key="d6"></data>
+</node>
+<node id="farmers">
+  <data key="d0">farmers</data>
+  <data key="d3">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d2">Dr Ramadugu Praveen's experiences led to initiatives that aim to improve knowledge access for farmers through Farm Vaidya's technology.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">last farmvaidhya pipecat.docx</data>
+  <data key="d5">1765364149</data>
+  <data key="d6"></data>
+</node>
+<node id="3-Day Online Certification Program">
+  <data key="d0">3-Day Online Certification Program</data>
+  <data key="d1">event</data>
+  <data key="d2">The 3-Day Online Certification Program focuses on the role of Artificial Intelligence in agriculture and offers insights into career opportunities.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d4">event.pdf</data>
+  <data key="d5">1765960730</data>
+  <data key="d6"></data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d0">Artificial Intelligence</data>
+  <data key="d1">concept</data>
+  <data key="d2">Artificial Intelligence refers to computer systems that can perform tasks that typically require human intelligence, and is being integrated into agriculture.&lt;SEP&gt;Artificial Intelligence refers to the simulation of human intelligence processes by machines, especially in the context of its applications in agriculture discussed in the program.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962348</data>
+  <data key="d6"></data>
+</node>
+<node id="Your AgriStory">
+  <data key="d0">Your AgriStory</data>
+  <data key="d1">organization</data>
+  <data key="d2">Your AgriStory is one of the organizers of the certification program focused on AI in agriculture.&lt;SEP&gt;Your AgriStory is an organization that collaborates to organize the certification program on AI in Agriculture.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962339</data>
+  <data key="d6"></data>
+</node>
+<node id="AgriHunars">
+  <data key="d0">AgriHunars</data>
+  <data key="d1">organization</data>
+  <data key="d2">AgriHunars is a co-organizer of the certification program on AI in agriculture.&lt;SEP&gt;AgriHunars is an organization collaborating with Your AgriStory to organize the AI in Agriculture certification program.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962339</data>
+  <data key="d6"></data>
+</node>
+<node id="AgriDoot">
+  <data key="d0">AgriDoot</data>
+  <data key="d1">organization</data>
+  <data key="d2">AgriDoot collaborates with Your AgriStory and AgriHunars for the certification program.&lt;SEP&gt;AgriDoot is an organization collaborating in the AI in Agriculture certification program.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962340</data>
+  <data key="d6"></data>
+</node>
+<node id="Farmvaidya AI">
+  <data key="d0">Farmvaidya AI</data>
+  <data key="d1">organization</data>
+  <data key="d2">Farmvaidya AI collaborates in organizing the certification program on AI in agriculture.&lt;SEP&gt;Farmvaidya AI is an organization collaborating in the AI in Agriculture certification program.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962340</data>
+  <data key="d6"></data>
+</node>
+<node id="Voice Technology">
+  <data key="d0">Voice Technology</data>
+  <data key="d1">concept</data>
+  <data key="d2">Voice Technology refers to systems that allow voice-based interactions and advisory systems, relevant to the agricultural sector.&lt;SEP&gt;Voice Technology is an emerging tool emphasized in the program for aiding farmers through voice-based guidance systems.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962341</data>
+  <data key="d6"></data>
+</node>
+<node id="AgriTech">
+  <data key="d0">AgriTech</data>
+  <data key="d1">concept</data>
+  <data key="d2">AgriTech encompasses the technological innovations in agriculture, focusing on enhancing productivity and sustainability.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d4">event.pdf</data>
+  <data key="d5">1765960735</data>
+  <data key="d6"></data>
+</node>
+<node id="Smart Farming">
+  <data key="d0">Smart Farming</data>
+  <data key="d1">concept</data>
+  <data key="d2">Smart Farming involves using technology to manage agricultural practices more efficiently and sustainably.&lt;SEP&gt;Smart Farming refers to the innovative practices in agriculture that use AI to enhance efficiency and productivity.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962348</data>
+  <data key="d6"></data>
+</node>
+<node id="Precision Agriculture">
+  <data key="d0">Precision Agriculture</data>
+  <data key="d1">concept</data>
+  <data key="d2">Precision Agriculture uses advanced technologies for data-driven farming practices, improving yields and efficiency.&lt;SEP&gt;Precision Agriculture involves technology-enhanced farming practices aimed at optimizing returns on inputs while preserving resources.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb&lt;SEP&gt;chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">event.pdf&lt;SEP&gt;events.pdf</data>
+  <data key="d5">1765962348</data>
+  <data key="d6"></data>
+</node>
+<node id="Ravi S.">
+  <data key="d0">Ravi S.</data>
+  <data key="d1">person</data>
+  <data key="d2">Ravi S. is listed as a resource person involved in the certification program.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d4">event.pdf</data>
+  <data key="d5">1765960735</data>
+  <data key="d6"></data>
+</node>
+<node id="Dr. Ramadugu Praveen">
+  <data key="d0">Dr. Ramadugu Praveen</data>
+  <data key="d1">person</data>
+  <data key="d2">Dr. Ramadugu Praveen is a contributor to the certification program on AI in agriculture.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d4">event.pdf</data>
+  <data key="d5">1765960736</data>
+  <data key="d6"></data>
+</node>
+<node id="Mridul Srivastava">
+  <data key="d0">Mridul Srivastava</data>
+  <data key="d1">person</data>
+  <data key="d2">Mridul Srivastava is another resource person associated with the certification program.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d4">event.pdf</data>
+  <data key="d5">1765960737</data>
+  <data key="d6"></data>
+</node>
+<node id="Agri-Women Entrepreneurs">
+  <data key="d0">Agri-Women Entrepreneurs</data>
+  <data key="d1">concept</data>
+  <data key="d2">Agri-Women Entrepreneurs refers to women who are involved in entrepreneurial activities within the agricultural sector, emphasized in the program's target audience.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d4">event.pdf</data>
+  <data key="d5">1765960737</data>
+  <data key="d6"></data>
+</node>
+<node id="Digital Certificate">
+  <data key="d0">Digital Certificate</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A Digital Certificate is awarded to participants who successfully complete the certification program.</data>
+  <data key="d3">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d4">event.pdf</data>
+  <data key="d5">1765960737</data>
+  <data key="d6"></data>
+</node>
+<node id="AI in Agriculture &amp; Career Opportunities">
+  <data key="d0">AI in Agriculture &amp; Career Opportunities</data>
+  <data key="d1">event</data>
+  <data key="d2">The AI in Agriculture &amp; Career Opportunities is a 3-day online certification program focusing on the role of AI in modern agriculture and career advancements.</data>
+  <data key="d3">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">events.pdf</data>
+  <data key="d5">1765962339</data>
+  <data key="d6"></data>
+</node>
+<node id="B.Sc / M.Sc / ABM Graduates">
+  <data key="d0">B.Sc / M.Sc / ABM Graduates</data>
+  <data key="d1">group</data>
+  <data key="d2">B.Sc / M.Sc / ABM Graduates are potential participants suitable for the certification program.</data>
+  <data key="d3">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">events.pdf</data>
+  <data key="d5">1765962341</data>
+  <data key="d6"></data>
+</node>
+<node id="Working Professionals">
+  <data key="d0">Working Professionals</data>
+  <data key="d1">group</data>
+  <data key="d2">Working Professionals are among those eligible to apply for the certification program.</data>
+  <data key="d3">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">events.pdf</data>
+  <data key="d5">1765962345</data>
+  <data key="d6"></data>
+</node>
+<node id="Early-Stage Startups">
+  <data key="d0">Early-Stage Startups</data>
+  <data key="d1">group</data>
+  <data key="d2">Early-Stage Startups are included as suitable applicants for the certification program.</data>
+  <data key="d3">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">events.pdf</data>
+  <data key="d5">1765962346</data>
+  <data key="d6"></data>
+</node>
+<node id="Agri Women Entrepreneurs">
+  <data key="d0">Agri Women Entrepreneurs</data>
+  <data key="d1">group</data>
+  <data key="d2">Agri Women Entrepreneurs are identified as suitable participants for the certification program.</data>
+  <data key="d3">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d4">events.pdf</data>
+  <data key="d5">1765962346</data>
+  <data key="d6"></data>
+</node>
+<edge source="Bio-Fertilizers" target="Chemical Fertilizers">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio-fertilizers provide a more sustainable alternative to chemical fertilizers, improving nutrient availability for crops.</data>
+  <data key="d9">agricultural use,nutrient availability</data>
+  <data key="d10">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360512</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio-Fertilizers" target="Nitrogen">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio-fertilizers play a crucial role in supplying nitrogen to plants through nitrogen-fixing bacteria.</data>
+  <data key="d9">nutrient supply,plant growth</data>
+  <data key="d10">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360513</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio-Fertilizers" target="Phosphorus">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio-fertilizers help in solubilizing phosphorus, making it available for plant uptake.</data>
+  <data key="d9">nutrient solubilization,plant nutrient</data>
+  <data key="d10">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360515</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio-Fertilizers" target="Potash">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio-fertilizers mobilize potash, improving nutrient availability for crops.</data>
+  <data key="d9">nutrient mobilization,plant nutrient</data>
+  <data key="d10">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360517</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio-Fertilizers" target="Zinc">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio-fertilizers provide zinc to plants, enhancing their nutrition and growth.</data>
+  <data key="d9">nutrient provision,plant nutrition</data>
+  <data key="d10">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360518</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio-Fertilizers" target="Iron">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio-fertilizers supply iron to crops, critical for their development and health.</data>
+  <data key="d9">nutrient provision,plant nutrition</data>
+  <data key="d10">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360519</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio-Fertilizers" target="Biofactor">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofactor develops bio-fertilizers that provide nutrients to crops and promote sustainable agricultural practices.</data>
+  <data key="d9">product development,sustainable agriculture</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360543</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Chemical Fertilizers" target="GVAMSPF">
+  <data key="d7">1.0</data>
+  <data key="d8">Chemical fertilizers should be avoided during specific application periods of GVAMSPF to ensure optimal nutrient uptake.</data>
+  <data key="d9">agricultural practices,usage guidelines</data>
+  <data key="d10">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360535</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Biofac Inputs Private Limited">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofac Inputs Private Limited manufactures Aadhaar Gold, a product that enhances soil health and crop productivity.</data>
+  <data key="d9">company,product manufacturing</data>
+  <data key="d10">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360512</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Benefits of Bio-Fertilizers">
+  <data key="d7">1.0</data>
+  <data key="d8">Aadhaar Gold provides numerous benefits such as increased crop yield and reduced reliance on chemical fertilizers.</data>
+  <data key="d9">agricultural benefit,product efficacy</data>
+  <data key="d10">chunk-7958d62ef2178d45fdd314d716b945ce</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360514</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Farmers">
+  <data key="d7">1.0</data>
+  <data key="d8">Farmers are targeted for the use of Aadhaar Gold to improve crop yield and soil fertility.</data>
+  <data key="d9">agricultural use,target market</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360515</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Biofactor">
+  <data key="d7">2.0</data>
+  <data key="d8">Aadhaar Gold is produced by Biofactor, establishing a connection between product and organization.&lt;SEP&gt;Biofactor offers Aadhaar Gold, a specific bio-fertilizer product in its line.</data>
+  <data key="d9">bio-fertilizer,brand association,product offering,product ownership</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15&lt;SEP&gt;chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360516</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="INM-Chakra">
+  <data key="d7">1.0</data>
+  <data key="d8">INM-Chakra provides a different formulation for nutrient delivery compared to Aadhaar Gold.</data>
+  <data key="d9">fertilizer technology,product comparison</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360518</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="GVAMSPF (Vesicular Arbuscular Mycorrhiza)">
+  <data key="d7">1.0</data>
+  <data key="d8">GVAMSPF offers a different biofertilizer option designed to enhance nutrient uptake compared to Aadhaar Gold.</data>
+  <data key="d9">microbial function,product comparison</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360519</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Crop Trials">
+  <data key="d7">1.0</data>
+  <data key="d8">Crop Trials demonstrate the effectiveness of Aadhaar Gold in achieving significant yield gains.</data>
+  <data key="d9">research validation,yield improvement</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360520</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Groundnut">
+  <data key="d7">1.0</data>
+  <data key="d8">Groundnut is specified as a crop that can benefit from the use of Aadhaar Gold biofertilizer.</data>
+  <data key="d9">biofertilizer use,crop application</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360522</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Pulses">
+  <data key="d7">1.0</data>
+  <data key="d8">Pulses are listed as another crop type that can effectively utilize Aadhaar Gold.</data>
+  <data key="d9">biofertilizer use,crop application</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360525</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Oilseeds">
+  <data key="d7">1.0</data>
+  <data key="d8">Oilseeds are indicated as beneficial to the use of Aadhaar Gold in farming practices.</data>
+  <data key="d9">biofertilizer use,crop application</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360528</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Soil Application">
+  <data key="d7">1.0</data>
+  <data key="d8">Soil application is a recommended method for applying Aadhaar Gold to various crops.</data>
+  <data key="d9">biofertilizer usage,method of application</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360541</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aadhaar Gold" target="Chemical Mixing">
+  <data key="d7">1.0</data>
+  <data key="d8">Chemical mixing guidelines specify how Aadhaar Gold should be used with organic manures and avoid contact with fungicides.</data>
+  <data key="d9">application guidance,compatibility</data>
+  <data key="d10">chunk-8592b2b6b35387d1d12080be6223ce15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zinc" target="Liquid Nutrient Mixture">
+  <data key="d7">1.0</data>
+  <data key="d8">The liquid nutrient mixture contains zinc, which is crucial for plant health and development.</data>
+  <data key="d9">nutrient composition,plant health</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360611</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Zinc" target="Deficiency Symptoms">
+  <data key="d7">1.0</data>
+  <data key="d8">Zinc deficiency symptoms impact plant growth, particularly affecting tender leaves.</data>
+  <data key="d9">nutrient impact,plant growth</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360615</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Department of Scientific and Industrial Research">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofactor’s R&amp;D laboratory is recognized by the Department of Scientific and Industrial Research for its advancements in bio-fertilizer technology.</data>
+  <data key="d9">collaboration,recognition</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360537</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Fertilizer Association of India">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofactor is a member of the Fertilizer Association of India, which enhances its commitment to the agricultural sector.</data>
+  <data key="d9">membership,support</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360538</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Indian Council of Agricultural Research - Central Institute for Research on Cotton Textiles">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofactor collaborates with the Indian Council of Agricultural Research to advance agricultural research and development.</data>
+  <data key="d9">agricultural innovation,collaboration</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360539</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="MAMSP Technology">
+  <data key="d7">2.0</data>
+  <data key="d8">Biofactor’s MAMSP technology enables optimal nutrient delivery to plants, significantly enhancing growth and yield.&lt;SEP&gt;Biofactor developed MAMSP Technology to enhance the efficiency of chemical fertilizers in agriculture.</data>
+  <data key="d9">fertilizer enhancement,innovation,innovation development,nutrient delivery</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf&lt;SEP&gt;chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360540</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Proprietary Microbial Strains">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofactor has developed proprietary microbial strains that are effective in improving soil health and crop growth.</data>
+  <data key="d9">development,soil health</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360542</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Liquid Micronutrient Blends">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofactor develops Liquid Micronutrient Blends to provide essential nutrients to crops.</data>
+  <data key="d9">nutrient enhancement,product development</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360544</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="FLOWMIN">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofactor produces FLOWMIN to optimize nutrient delivery in drip irrigation systems.</data>
+  <data key="d9">irrigation,product application</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360545</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Sampoorna">
+  <data key="d7">1.0</data>
+  <data key="d8">Sampoorna is developed by Biofactor for enhancing foliar nutrient absorption in crops.</data>
+  <data key="d9">foliar nutrigation,product application</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360546</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Agriseal">
+  <data key="d7">1.0</data>
+  <data key="d8">Agriseal is created by Biofactor to manage plant stress effectively.</data>
+  <data key="d9">product purpose,stress management</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360547</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="BOC">
+  <data key="d7">1.0</data>
+  <data key="d8">BOC is a novel liquid organic carbon product developed by Biofactor for enhancing soil health.</data>
+  <data key="d9">product innovation,soil health</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360548</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Invictus">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus is developed by Biofactor to combat soil-borne diseases in crops.</data>
+  <data key="d9">disease control,product development</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360550</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Native Neem">
+  <data key="d7">1.0</data>
+  <data key="d8">Native Neem is produced by Biofactor to provide sustainable pest management solutions.</data>
+  <data key="d9">pest control,product development</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360551</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="TRAICORE">
+  <data key="d7">1.0</data>
+  <data key="d8">TRAICORE is a plant growth regulator aimed at enhancing crop growth developed by Biofactor.</data>
+  <data key="d9">growth regulation,product application</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360552</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Pentazia">
+  <data key="d7">1.0</data>
+  <data key="d8">Pentazia is an advanced biological fungicide developed by Biofactor for protecting crops from diseases.</data>
+  <data key="d9">disease protection,product application</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360553</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="NEOLIFE">
+  <data key="d7">1.0</data>
+  <data key="d8">NEOLIFE is introduced by Biofactor focusing on microbiological solutions for soil health improvement.</data>
+  <data key="d9">product innovation,soil enhancement</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360557</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="DFUSE">
+  <data key="d7">1.0</data>
+  <data key="d8">DFUSE is developed by Biofactor as a natural solution for managing larval pests.</data>
+  <data key="d9">pest management,product purpose</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360558</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="DFNDR">
+  <data key="d7">1.0</data>
+  <data key="d8">DFNDR is created by Biofactor to act as a natural shield against sucking pests on crops.</data>
+  <data key="d9">pest protection,product purpose</data>
+  <data key="d10">chunk-bd824ceb871cfc87a7868c868181eaaf</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360561</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="INM Chakra">
+  <data key="d7">1.0</data>
+  <data key="d8">Biofactor also provides INM Chakra as part of its bio-fertilizer range.</data>
+  <data key="d9">bio-fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360587</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="GVAMSPF">
+  <data key="d7">1.0</data>
+  <data key="d8">GVAMSPF is another bio-fertilizer product produced by Biofactor.</data>
+  <data key="d9">bio-fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360589</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="N-Factor">
+  <data key="d7">1.0</data>
+  <data key="d8">N-Factor constitutes a nitrogen-fixing component in Biofactor's offerings.</data>
+  <data key="d9">bio-fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360592</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="P-Factor">
+  <data key="d7">1.0</data>
+  <data key="d8">P-Factor serves as a phosphorus-solubilizing bacteria product within Biofactor’s portfolio.</data>
+  <data key="d9">bio-fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360593</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="K-Factor">
+  <data key="d7">1.0</data>
+  <data key="d8">K-Factor is part of Biofactor's product lineup, with specific details not provided.</data>
+  <data key="d9">bio-fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360594</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="ZN-Factor">
+  <data key="d7">1.0</data>
+  <data key="d8">ZN-Factor is included in Biofactor’s range of products, details unspecified.</data>
+  <data key="d9">bio-fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360596</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Bio Fertilize">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio Fertilize is marketed by Biofactor within its product offerings.</data>
+  <data key="d9">bio-fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360597</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="BIO TRIPLE ACTION PROGRAM">
+  <data key="d7">1.0</data>
+  <data key="d8">BIO TRIPLE ACTION PROGRAM relates to Biofactor's approach in mitigating stress on plants.</data>
+  <data key="d9">product application,program</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360598</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="BIO DOUBLE ACTION PROGRAM">
+  <data key="d7">1.0</data>
+  <data key="d8">BIO DOUBLE ACTION PROGRAM is another method employed by Biofactor.</data>
+  <data key="d9">product application,program</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360599</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Biopotash">
+  <data key="d7">1.0</data>
+  <data key="d8">Biopotash is presented as a product offered by Biofactor.</data>
+  <data key="d9">bio-fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360600</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="CHELATED ZINC AS ZINC GLYCINE">
+  <data key="d7">1.0</data>
+  <data key="d8">CHELATED ZINC AS ZINC GLYCINE is part of the liquid chemical fertilizers available from Biofactor.</data>
+  <data key="d9">chemical fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360601</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="CHELATED BORON AS BORON GLYCINE">
+  <data key="d7">1.0</data>
+  <data key="d8">BIOFACTOR offers CHELATED BORON AS BORON GLYCINE among its chemical fertilizers.</data>
+  <data key="d9">chemical fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360603</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Ferron">
+  <data key="d7">1.0</data>
+  <data key="d8">Ferron is also included as part of Biofactor's chemical fertilizer offerings.</data>
+  <data key="d9">chemical fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360604</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="MAGNESIUM HYDROXIDE AND ZINC PHOSPHATE">
+  <data key="d7">1.0</data>
+  <data key="d8">MAGNESIUM HYDROXIDE AND ZINC PHOSPHATE is another product provided in Biofactor's chemical fertilizers.</data>
+  <data key="d9">chemical fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360606</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="TRuMiN">
+  <data key="d7">1.0</data>
+  <data key="d8">TRuMiN is highlighted in Biofactor's lineup as a manganese carbonate suspension concentrate.</data>
+  <data key="d9">chemical fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360607</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="COPSE">
+  <data key="d7">1.0</data>
+  <data key="d8">COPSE is among the chemical fertilizers produced by Biofactor.</data>
+  <data key="d9">chemical fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360608</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="BSL4Agri">
+  <data key="d7">1.0</data>
+  <data key="d8">BSL4Agri focuses on addressing viral diseases as part of Biofactor's product range.</data>
+  <data key="d9">chemical fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360611</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Poshak Level-1">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak Level-1 is provided by Biofactor as a liquid fermented organic fertilizer.</data>
+  <data key="d9">organic fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360613</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biofactor" target="Liquid Micronutrients">
+  <data key="d7">1.0</data>
+  <data key="d8">Liquid Micronutrients are included in the range of fertilizers offered by Biofactor.</data>
+  <data key="d9">fertilizer,product offering</data>
+  <data key="d10">chunk-2867489bfc50306cf700e8e575dff76e</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360615</data>
+  <data key="d13"></data>
+</edge>
+<edge source="IIHR-TV-5 Strain" target="Farmers in Telangana and AP">
+  <data key="d7">1.0</data>
+  <data key="d8">Farmers in Telangana and Andhra Pradesh observed benefits such as visible disease reduction due to the use of IIHR-TV-5 strain.</data>
+  <data key="d9">agricultural success,observational benefits</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360520</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Native Neem" target="Azadirachtin">
+  <data key="d7">1.0</data>
+  <data key="d8">Azadirachtin is the active ingredient in Native Neem, used for controlling various insect pests.</data>
+  <data key="d9">active ingredient,pest control</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360521</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Native Neem" target="Active Ingredient">
+  <data key="d7">1.0</data>
+  <data key="d8">Native Neem is classified by its active ingredient, which plays a role in effective pest management.</data>
+  <data key="d9">ingredient role,pest management</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360527</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Native Neem" target="Target Pests">
+  <data key="d7">1.0</data>
+  <data key="d8">Native Neem targets specific sap-sucking insects and early-stage caterpillars for effective control.</data>
+  <data key="d9">pest control,target range</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360529</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Native Neem" target="Mode of Action">
+  <data key="d7">1.0</data>
+  <data key="d8">Native Neem's mode of action disrupts pest reproduction and growth processes.</data>
+  <data key="d9">mechanism of action,pest control</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360531</data>
+  <data key="d13"></data>
+</edge>
+<edge source="TRAICORE" target="Tricontanol">
+  <data key="d7">1.0</data>
+  <data key="d8">Tricontanol serves as the active ingredient in TRAICORE, contributing to enhanced plant growth and yield.</data>
+  <data key="d9">ingredient function,plant growth</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360522</data>
+  <data key="d13"></data>
+</edge>
+<edge source="TRAICORE" target="Formulations &amp; Dosage">
+  <data key="d7">1.0</data>
+  <data key="d8">TRAICORE provides various formulations and dosages to enhance crop productivity effectively.</data>
+  <data key="d9">application guidelines,effective use</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360529</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Pentazia" target="fungal diseases">
+  <data key="d7">1.0</data>
+  <data key="d8">Pentazia provides powerful control against fungal diseases, offering vital nutrients to plants.</data>
+  <data key="d9">disease resistance,pest management</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360525</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Pentazia" target="Formulations &amp; Dosage">
+  <data key="d7">1.0</data>
+  <data key="d8">Pentazia provides specific formulations and dosages for effective application against fungal diseases.</data>
+  <data key="d9">application method,effective use</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360531</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NEOLIFE" target="beneficial microorganisms">
+  <data key="d7">1.0</data>
+  <data key="d8">NEOLIFE revitalizes soil by adding beneficial microorganisms, enhancing growth and productivity.</data>
+  <data key="d9">plant growth,soil health</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360524</data>
+  <data key="d13"></data>
+</edge>
+<edge source="DFUSE" target="larval pests">
+  <data key="d7">1.0</data>
+  <data key="d8">DFUSE effectively targets larval pests and provides essential nutrients to plants.</data>
+  <data key="d9">nutrient provision,target action</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360527</data>
+  <data key="d13"></data>
+</edge>
+<edge source="DFNDR" target="sucking pests">
+  <data key="d7">1.0</data>
+  <data key="d8">DFNDR is used as an eco-friendly method to manage sucking pests while promoting balanced plant growth and stress tolerance.</data>
+  <data key="d9">balanced growth,pest management</data>
+  <data key="d10">chunk-28470b0be8e993e924e0177e59076cc3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360527</data>
+  <data key="d13"></data>
+</edge>
+<edge source="GVAMSPF" target="Mycorrhiza">
+  <data key="d7">1.0</data>
+  <data key="d8">GVAMSPF employs mycorrhiza to enhance nutrient delivery and absorption in plants.</data>
+  <data key="d9">agricultural method,nutrient delivery</data>
+  <data key="d10">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360530</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mycorrhiza" target="Bio-encapsulation Technology">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio-encapsulation technology is used to apply mycorrhiza effectively in agriculture for improved plant growth.</data>
+  <data key="d9">agricultural innovation,microbial application</data>
+  <data key="d10">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360535</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Nitrogen Fixing Bacteria (N-Factor)" target="N-Factor">
+  <data key="d7">1.0</data>
+  <data key="d8">N-Factor is associated with nitrogen fixing bacteria that convert atmospheric nitrogen into usable forms for plants.</data>
+  <data key="d9">nitrogen stabilization,nutrient conversion</data>
+  <data key="d10">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360533</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Phosphorus Solubilizing Bacteria (P-Factor)" target="P-Factor">
+  <data key="d7">1.0</data>
+  <data key="d8">P-Factor utilizes phosphorus solubilizing bacteria to enhance phosphorus availability for crops.</data>
+  <data key="d9">nutrient enhancement,phosphorus availability</data>
+  <data key="d10">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Potassium Mobilizing Bacteria (K-Factor)" target="K-Factor">
+  <data key="d7">1.0</data>
+  <data key="d8">K-Factor bacteria assist in mobilizing potassium to improve plant health and growth.</data>
+  <data key="d9">plant health,potassium mobilization</data>
+  <data key="d10">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360534</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Crop Duration" target="Granular Form">
+  <data key="d7">1.0</data>
+  <data key="d8">Granular form application frequency varies depending on crop duration, with distinct guidelines for short-term and long-term crops.</data>
+  <data key="d9">application frequency,fertilizer type</data>
+  <data key="d10">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360536</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Crop Duration" target="Liquid Form">
+  <data key="d7">1.0</data>
+  <data key="d8">Liquid form application frequency also depends on crop duration, with tailored strategies for different types of crops.</data>
+  <data key="d9">application specifics,fertilizer type</data>
+  <data key="d10">chunk-0826b0f7fffa34c58341e345deadf986</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360538</data>
+  <data key="d13"></data>
+</edge>
+<edge source="MAMSP Technology" target="Potassium Thiosulphate">
+  <data key="d7">1.0</data>
+  <data key="d8">Potassium Thiosulphate benefits from MAMSP Technology, improving its effectiveness as a fertilizer.</data>
+  <data key="d9">application method,nutrient delivery</data>
+  <data key="d10">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360559</data>
+  <data key="d13"></data>
+</edge>
+<edge source="MAMSP Technology" target="Chelated Zinc as Zinc Glycine">
+  <data key="d7">1.0</data>
+  <data key="d8">Chelated Zinc as Zinc Glycine utilizes MAMSP Technology to ensure stable nutrient delivery in horticultural crops.</data>
+  <data key="d9">application method,nutrient delivery</data>
+  <data key="d10">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360561</data>
+  <data key="d13"></data>
+</edge>
+<edge source="MAMSP Technology" target="Liquid Nutrient Mixture">
+  <data key="d7">1.0</data>
+  <data key="d8">The liquid nutrient mixture is formulated using MAMSP technology to enhance nutrient efficiency for plants.</data>
+  <data key="d9">formulation method,nutrient efficiency</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360613</data>
+  <data key="d13"></data>
+</edge>
+<edge source="MAMSP Technology" target="Boron Glycine">
+  <data key="d7">1.0</data>
+  <data key="d8">Boron Glycine is formulated using MAMSP technology to ensure nutrient availability in horticultural crops.</data>
+  <data key="d9">formulation method,nutrient availability</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360616</data>
+  <data key="d13"></data>
+</edge>
+<edge source="MAMSP Technology" target="Magnesium Hydroxide and Zinc Phosphate">
+  <data key="d7">1.0</data>
+  <data key="d8">The product is formulated using MAMSP technology to enhance nutrient delivery to plants.</data>
+  <data key="d9">formulation method,nutrient enhancement</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360618</data>
+  <data key="d13"></data>
+</edge>
+<edge source="FLOWMIN" target="Plants">
+  <data key="d7">1.0</data>
+  <data key="d8">FLOWMIN is designed to enhance root system growth and improve overall plant health through drip irrigation.</data>
+  <data key="d9">nutrient enhancement,root absorption</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360571</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sampoorna" target="Crops">
+  <data key="d7">1.0</data>
+  <data key="d8">Sampoorna is utilized to support all crops with its designed foliar nutrient blends.</data>
+  <data key="d9">crop support,nutrient application</data>
+  <data key="d10">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360583</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Agriseal" target="Plants">
+  <data key="d7">1.0</data>
+  <data key="d8">Agriseal aids plants in coping with environmental stresses and supports their nutrient metabolism.</data>
+  <data key="d9">nutrient support,stress management</data>
+  <data key="d10">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360584</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BOC" target="Soil">
+  <data key="d7">1.0</data>
+  <data key="d8">BOC enhances soil structure and nutrient availability, improving crop growth conditions.</data>
+  <data key="d9">nutrient enhancement,soil management</data>
+  <data key="d10">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360588</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Trichoderma Viride">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus contains Trichoderma viride culture, which is critical for its effectiveness in controlling soil-borne diseases.</data>
+  <data key="d9">biological control,product composition</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360569</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Rhizoctonia Solani">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus effectively controls Rhizoctonia solani, a significant threat to crops.</data>
+  <data key="d9">disease control,fungal pathogen</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360571</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Tomato">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus is recommended for use in tomatoes to prevent root rot and damping-off diseases.</data>
+  <data key="d9">application,crop protection</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360572</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Okra">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus can be applied to okra to combat seed and soil-borne diseases.</data>
+  <data key="d9">application,crop health</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360574</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Andhra Pradesh">
+  <data key="d7">1.0</data>
+  <data key="d8">Andhra Pradesh utilizes Invictus to prevent fungal infections in crops.</data>
+  <data key="d9">prevention,regional usage</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360575</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="IIHR-TV-5">
+  <data key="d7">1.0</data>
+  <data key="d8">The IIHR-TV-5 strain is a validated component of Invictus, ensuring its effectiveness in disease control.</data>
+  <data key="d9">effectiveness,strain validation</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360577</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Carboxy Methyl Cellulose">
+  <data key="d7">1.0</data>
+  <data key="d8">Carboxy Methyl Cellulose is a formulation component in Invictus that aids in its effectiveness as a biofungicide.</data>
+  <data key="d9">formulation component,product effectiveness</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360579</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Talc">
+  <data key="d7">1.0</data>
+  <data key="d8">Talc acts as a carrier in the formulation of Invictus, contributing to its overall composition.</data>
+  <data key="d9">carrier,product formulation</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360580</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Organic Systems">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus is compatible with organic systems, making it a suitable option for organic farming.</data>
+  <data key="d9">agricultural practices,compatibility</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360581</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Biofertilizers">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus is compatible with biofertilizers, enhancing the overall health and yield of crops.</data>
+  <data key="d9">compatibility,crop yields</data>
+  <data key="d10">chunk-552ebcf1fccab3b4f9bbbfd1567319d3</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360584</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Trichoderma Viridae">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus contains Trichoderma Viridae to control soil-borne diseases affecting crops.</data>
+  <data key="d9">biological control,disease management</data>
+  <data key="d10">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360588</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Trichoderma Harzianum">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus also utilizes Trichoderma Harzianum for its capabilities in managing crop diseases.</data>
+  <data key="d9">biological control,disease management</data>
+  <data key="d10">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360590</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Invictus" target="Reacting Diseases">
+  <data key="d7">1.0</data>
+  <data key="d8">Invictus is developed to control reacting diseases in crops through the use of biological agents.</data>
+  <data key="d9">crop protection,disease control</data>
+  <data key="d10">chunk-ef566fa604fb11fa0fb712546748fe1f</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360592</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PRITHVI" target="Bacteria">
+  <data key="d7">1.0</data>
+  <data key="d8">PRITHVI utilizes bacteria to control sap-sucking insects and improve nutrient availability.</data>
+  <data key="d9">fertilizer action,pest control</data>
+  <data key="d10">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360550</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PROMOTE Phosphate Rich Organic Manure" target="Bacteria">
+  <data key="d7">1.0</data>
+  <data key="d8">PROMOTE enhances soil health by using phosphorus-solubilizing bacteria.</data>
+  <data key="d9">nutrient interaction,soil health</data>
+  <data key="d10">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360552</data>
+  <data key="d13"></data>
+</edge>
+<edge source="PROMOTE Phosphate Rich Organic Manure" target="Belom Series">
+  <data key="d7">1.0</data>
+  <data key="d8">The Belom Series offers nutrients at various growth stages, complementing the function of PROMOTE for better crop health.</data>
+  <data key="d9">growth stages,nutrient supply</data>
+  <data key="d10">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360554</data>
+  <data key="d13"></data>
+</edge>
+<edge source="SUMCA Bio Enriched Organic Manure" target="Bacteria">
+  <data key="d7">1.0</data>
+  <data key="d8">SUMCA provides essential nutrients through bacteria, promoting healthy crops and soil health.</data>
+  <data key="d9">nutrient provision,soil enhancement</data>
+  <data key="d10">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360554</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Liquid Organic Nutrients" target="Belom S-1">
+  <data key="d7">1.0</data>
+  <data key="d8">Belom S-1 provides main nutrients essential for vegetative growth through liquid organic nutrients.</data>
+  <data key="d9">growth stage support,nutrient supply</data>
+  <data key="d10">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360556</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Liquid Organic Nutrients" target="Belom S-2">
+  <data key="d7">1.0</data>
+  <data key="d8">Belom S-2 supplies nutrients needed for the flowering stage using liquid organic nutrients.</data>
+  <data key="d9">flowering assistance,growth stage support</data>
+  <data key="d10">chunk-76c8f38bb46808c3bda35a27be20dc5d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360560</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak-L1" target="Andhra Pradesh">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak-L1 is targeted for use among farmers in Andhra Pradesh for enhancing crop health.</data>
+  <data key="d9">regional usage,target market</data>
+  <data key="d10">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360556</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak-L1" target="Telangana">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak-L1 is marketed to farmers in Telangana to combat nutrient loss in crops.</data>
+  <data key="d9">regional usage,target market</data>
+  <data key="d10">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360558</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak-L1" target="Maharashtra">
+  <data key="d7">1.0</data>
+  <data key="d8">In Maharashtra, Poshak-L1 is aimed at improving soil health for cotton and vegetable crops.</data>
+  <data key="d9">regional usage,target market</data>
+  <data key="d10">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360560</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak-L1" target="Karnataka">
+  <data key="d7">1.0</data>
+  <data key="d8">Karnataka utilizes Poshak-L1 to balance vegetative nutrition in various crops, notably paddy and horticulture.</data>
+  <data key="d9">regional usage,target market</data>
+  <data key="d10">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360563</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak-L1" target="Trial Data">
+  <data key="d7">1.0</data>
+  <data key="d8">Trial Data demonstrates the performance improvement of crops using Poshak-L1 across various trials in Andhra Pradesh and Telangana.</data>
+  <data key="d9">product effectiveness,research validation</data>
+  <data key="d10">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360566</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak-L1" target="Farmer Feedback">
+  <data key="d7">1.0</data>
+  <data key="d8">Farmer Feedback reflects the positive outcomes of using Poshak-L1, resulting in healthier soil and higher rates of adoption among farmers.</data>
+  <data key="d9">product adoption,user experience</data>
+  <data key="d10">chunk-963cd7a91acc091b0215a79f85ffea4d</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360567</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Andhra Pradesh" target="Rythuvaani">
+  <data key="d7">1.0</data>
+  <data key="d8">Rythuvaani project collects agricultural audio data from farmers in Andhra Pradesh to develop its Speech-to-Text capabilities.</data>
+  <data key="d9">data collection,project focus</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364148</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Telangana" target="Rythuvaani">
+  <data key="d7">1.0</data>
+  <data key="d8">Rythuvaani project aims to include agricultural audio data collection from farmers in Telangana for its Speech-to-Text system.</data>
+  <data key="d9">data collection,project focus</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Copper Sulphate" target="Plants">
+  <data key="d7">1.0</data>
+  <data key="d8">Copper Sulphate is applied to plants to enhance nutrient absorption and support growth.</data>
+  <data key="d9">growth support,nutrient application</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Copper Sulphate" target="Enzymes">
+  <data key="d7">1.0</data>
+  <data key="d8">Copper Sulphate stimulates enzymes necessary for plant metabolism, aiding in various growth processes.</data>
+  <data key="d9">enzyme stimulation,nutrient support</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360566</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Copper Sulphate" target="Fungal Growth">
+  <data key="d7">1.0</data>
+  <data key="d8">Copper Sulphate protects against fungal growth, promoting healthier plant development.</data>
+  <data key="d9">disease control,protection</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360569</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Copper Sulphate" target="Water Stress">
+  <data key="d7">1.0</data>
+  <data key="d8">Copper Sulphate helps plants withstand water stress by supporting crucial metabolic functions.</data>
+  <data key="d9">nutrient application,stress resistance</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360570</data>
+  <data key="d13"></data>
+</edge>
+<edge source="MAMS Technology" target="NUTRI6">
+  <data key="d7">1.0</data>
+  <data key="d8">MAMS Technology is used in the formulation of NUTRI6 to improve the absorption of micronutrients by crops.</data>
+  <data key="d9">enhanced absorption,micronutrient delivery</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360563</data>
+  <data key="d13"></data>
+</edge>
+<edge source="BSL4Agri" target="Plants">
+  <data key="d7">1.0</data>
+  <data key="d8">BSL4Agri helps protect plants from viral and bacterial diseases by using microsized particles of silver and copper.</data>
+  <data key="d9">disease prevention,pathogen resistance</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360565</data>
+  <data key="d13"></data>
+</edge>
+<edge source="NUTRI6" target="Nitrogen Metabolism">
+  <data key="d7">1.0</data>
+  <data key="d8">NUTRI6 promotes nitrogen metabolism, which is essential for healthy plant growth.</data>
+  <data key="d9">growth support,nutrient influence</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360567</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Nutrito6" target="Plants">
+  <data key="d7">1.0</data>
+  <data key="d8">Nutrito6 is utilized to prevent micronutrient deficiencies and support healthy crop growth, especially under viral infections.</data>
+  <data key="d9">disease resistance,nutrient supplementation</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360567</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Drop Method" target="Nutrient Solutions">
+  <data key="d7">1.0</data>
+  <data key="d8">Drop Method is used for delivering nutrient solutions efficiently in fields, ensuring even distribution until watering occurs.</data>
+  <data key="d9">irrigation technique,nutrient delivery</data>
+  <data key="d10">chunk-3bae529b595718be07dc653d7b2c7f06</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360568</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Biofac Inputs Pvt. Ltd.">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak Level-1 is manufactured by Biofac Inputs Pvt. Ltd.</data>
+  <data key="d9">product-manufactured-by</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360574</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Vegetative Stage">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak Level-1 is specifically formulated for application during the Vegetative Stage of plant growth.</data>
+  <data key="d9">stage-specific-nutrition</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360576</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Flowering Stage">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak Level-1 also provides the necessary nutrients required for successful growth during the Flowering Stage.</data>
+  <data key="d9">nutrient-application</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360577</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Fruiting Stage">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak Level-1 supplies essential nutrients required for healthy fruit development during the Fruiting Stage.</data>
+  <data key="d9">nutrient-application</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360578</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Paddy">
+  <data key="d7">1.0</data>
+  <data key="d8">Paddy benefits from the application of Poshak Level-1 to remedy nutrient loss and enhance root strength.</data>
+  <data key="d9">crop-benefit</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360580</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Cotton">
+  <data key="d7">1.0</data>
+  <data key="d8">Cotton responds positively to Poshak Level-1 by improving vegetative growth and branching strength.</data>
+  <data key="d9">crop-benefit</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360582</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Vegetables">
+  <data key="d7">1.0</data>
+  <data key="d8">Vegetables improve nutrient availability and soil health when treated with Poshak Level-1.</data>
+  <data key="d9">crop-benefit</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360584</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Organic Fertilizer">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak Level-1 is marketed under the name Organic Fertilizer.</data>
+  <data key="d9">product-name</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360587</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Poshak Level-1" target="Liquid Fermented Organic Fertilizer">
+  <data key="d7">1.0</data>
+  <data key="d8">Poshak Level-1 is a type of Liquid Fermented Organic Fertilizer, focusing on plant nutrient delivery.</data>
+  <data key="d9">product-type</data>
+  <data key="d10">chunk-bea6cf75e866c72330ed337d9f357dd9</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360590</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biopotash" target="Bio Fertilizer">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio Fertilizer includes Biopotash to increase the solubilization of potash, promoting better nutrient access for plants.</data>
+  <data key="d9">fertilizer technology,nutrient access</data>
+  <data key="d10">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360609</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ZN-FACTOR" target="Bio Fertilizer">
+  <data key="d7">1.0</data>
+  <data key="d8">ZN-FACTOR enhances the availability of zinc for plants, thereby improving the efficacy of bio fertilizers.</data>
+  <data key="d9">agricultural application,nutrient enhancement</data>
+  <data key="d10">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360604</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ZN-FACTOR" target="Chemical Potassium Fertilizers">
+  <data key="d7">1.0</data>
+  <data key="d8">The application of ZN-FACTOR reduces the need for chemical potassium fertilizers by 20-25%.</data>
+  <data key="d9">fertilizer reduction,nutrient efficiency</data>
+  <data key="d10">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360608</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ZN-FACTOR" target="Seed Treatment">
+  <data key="d7">1.0</data>
+  <data key="d8">ZN-FACTOR is initially applied using the seed treatment method followed by foliar spray during growth stages.</data>
+  <data key="d9">agricultural practice,application method</data>
+  <data key="d10">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360610</data>
+  <data key="d13"></data>
+</edge>
+<edge source="ZN-FACTOR" target="Foliar Spray">
+  <data key="d7">1.0</data>
+  <data key="d8">Foliar spray is used in conjunction with ZN-FACTOR to enhance nutrient delivery during crop growth.</data>
+  <data key="d9">application method,nutrient delivery</data>
+  <data key="d10">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360613</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio Fertilizer" target="Bio Triple Action Program">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio Fertilizer utilizes the Bio Triple Action Program to increase nitrogen, phosphorus, and potash availability for crops.</data>
+  <data key="d9">crop improvement,fertilizer technology</data>
+  <data key="d10">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360605</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio Fertilizer" target="Bio Double Action Program">
+  <data key="d7">1.0</data>
+  <data key="d8">Bio Fertilizer incorporates the Bio Double Action Program to support the fixation of nitrogen and access to phosphorus in soils.</data>
+  <data key="d9">fertilizer technology,nutrient solubilization</data>
+  <data key="d10">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360607</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bio Fertilizer" target="Proceed – Biotic &amp; Abiotic Stress Relieve">
+  <data key="d7">1.0</data>
+  <data key="d8">Proceed provides a bio-fertilizer solution that aids plants under stress, enhancing their growth and resilience through nutrient support.</data>
+  <data key="d9">agricultural application,stress relief</data>
+  <data key="d10">chunk-1a7e6570ebf3412d42a00682e0582b15</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360611</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Liquid Nutrient Mixture" target="Zinc Deficiency">
+  <data key="d7">1.0</data>
+  <data key="d8">The liquid nutrient mixture addresses zinc deficiency symptoms in plants.</data>
+  <data key="d9">deficiency treatment,nutrient impact</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360616</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Liquid Nutrient Mixture" target="Iron Nutrient">
+  <data key="d7">1.0</data>
+  <data key="d8">Iron is included in the liquid nutrient mixture to support essential functions such as photosynthesis in plants.</data>
+  <data key="d9">nutrient role,plant function</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360618</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Liquid Nutrient Mixture" target="Manganese Carbonate">
+  <data key="d7">1.0</data>
+  <data key="d8">Manganese Carbonate contributes to the nutrient composition of the liquid nutrient mixture for healthier plants.</data>
+  <data key="d9">nutrient composition,plant health</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360619</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Boron Glycine" target="Deficiency Symptoms">
+  <data key="d7">1.0</data>
+  <data key="d8">Deficiency symptoms of boron can affect the reproductive health of vine crops.</data>
+  <data key="d9">nutrient impact,reproductive health</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360621</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Iron Nutrient" target="Deficiency Symptoms">
+  <data key="d7">1.0</data>
+  <data key="d8">Symptoms of iron deficiency affect the overall health and color of plants.</data>
+  <data key="d9">nutrient impact,plant health</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360619</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Magnesium Hydroxide and Zinc Phosphate" target="Deficiency Symptoms">
+  <data key="d7">1.0</data>
+  <data key="d8">Deficiency symptoms linked to magnesium can regulate plant growth and health.</data>
+  <data key="d9">growth regulation,nutrient impact</data>
+  <data key="d10">chunk-6016cccfa6edd7bb14766405519947d6</data>
+  <data key="d11">Biofactor knowledge base 21112025.pdf</data>
+  <data key="d12">1765360622</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Farm Vaidya" target="Generative AI">
+  <data key="d7">1.0</data>
+  <data key="d8">Farm Vaidya utilizes Generative AI to create solutions that empower farmers and enhance agricultural practices.</data>
+  <data key="d9">agricultural solutions,innovation</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364147</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Farm Vaidya" target="Dr Ramadugu Praveen">
+  <data key="d7">1.0</data>
+  <data key="d8">Dr Ramadugu Praveen is the Founder and CEO responsible for leading Farm Vaidya's mission and projects.</data>
+  <data key="d9">founder,organizational leadership</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364148</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Farm Vaidya" target="G Jyotsna">
+  <data key="d7">1.0</data>
+  <data key="d8">G Jyotsna serves as the Co-Founder and COO, collaborating in the management of Farm Vaidya.</data>
+  <data key="d9">co-founder,organizational leadership</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Farm Vaidya" target="Conversational Voice Agents">
+  <data key="d7">1.0</data>
+  <data key="d8">Farm Vaidya is building Conversational Voice Agents to enhance engagement and provide agricultural support to farmers and stakeholders.</data>
+  <data key="d9">technology development,user engagement</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Farm Vaidya" target="Agricultural Intelligence">
+  <data key="d7">1.0</data>
+  <data key="d8">Farm Vaidya applies Agricultural Intelligence through Generative AI to revolutionize how farmers access and utilize agricultural information.</data>
+  <data key="d9">knowledge application,technology integration</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Dr Ramadugu Praveen" target="farmers">
+  <data key="d7">1.0</data>
+  <data key="d8">Dr Ramadugu Praveen's experiences led to initiatives that aim to improve knowledge access for farmers through Farm Vaidya's technology.</data>
+  <data key="d9">agricultural support,knowledge dissemination</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Generative AI" target="3-Day Online Certification Program">
+  <data key="d7">1.0</data>
+  <data key="d8">The program introduces Generative AI as an emerging tool in Indian agriculture.</data>
+  <data key="d9">learning focus,topic introduction</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960747</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Rythuvaani" target="Automatic Speech Recognition (ASR)">
+  <data key="d7">1.0</data>
+  <data key="d8">Rythuvaani project is focused on creating a Speech-to-Text system using Automatic Speech Recognition technology tailored for agricultural conversations.</data>
+  <data key="d9">project development,technology application</data>
+  <data key="d10">chunk-c2a92395ec33eca6930aa4773b37c49a</data>
+  <data key="d11">last farmvaidhya pipecat.docx</data>
+  <data key="d12">1765364147</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="Your AgriStory">
+  <data key="d7">1.0</data>
+  <data key="d8">Your AgriStory is one of the main organizers of the 3-Day Online Certification Program.</data>
+  <data key="d9">event organization,organization involvement</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960741</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="AgriHunars">
+  <data key="d7">1.0</data>
+  <data key="d8">AgriHunars collaborates with Your AgriStory to organize the 3-Day Online Certification Program.</data>
+  <data key="d9">event organization,organization involvement</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960742</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="AgriDoot">
+  <data key="d7">1.0</data>
+  <data key="d8">AgriDoot collaborates in the organization of the certification program.</data>
+  <data key="d9">collaboration,event organization</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960744</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="Farmvaidya AI">
+  <data key="d7">1.0</data>
+  <data key="d8">Farmvaidya AI is a collaborating organization for the certification program focused on AI in agriculture.</data>
+  <data key="d9">collaboration,event organization</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960745</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="Artificial Intelligence">
+  <data key="d7">1.0</data>
+  <data key="d8">The certification program aims to provide foundational knowledge of Artificial Intelligence and its application in agriculture.</data>
+  <data key="d9">concept application,educational focus</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960746</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="Voice Technology">
+  <data key="d7">1.0</data>
+  <data key="d8">Voice Technology is introduced in the program as an innovative tool for farming advisory systems.</data>
+  <data key="d9">learning focus,topic introduction</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960748</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="Smart Farming">
+  <data key="d7">1.0</data>
+  <data key="d8">The program promotes understanding of Smart Farming as part of AI-driven agricultural practices.</data>
+  <data key="d9">educational focus,topic</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960749</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="Precision Agriculture">
+  <data key="d7">1.0</data>
+  <data key="d8">The certification program addresses Precision Agriculture relevant to modern agribusiness environments.</data>
+  <data key="d9">educational focus,topic</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960751</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="Agri-Women Entrepreneurs">
+  <data key="d7">1.0</data>
+  <data key="d8">The certification program is suitable for Agri-Women Entrepreneurs interested in AI and innovations in agriculture.</data>
+  <data key="d9">program suitability,target audience</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960752</data>
+  <data key="d13"></data>
+</edge>
+<edge source="3-Day Online Certification Program" target="Digital Certificate">
+  <data key="d7">1.0</data>
+  <data key="d8">Participants of the certification program receive a Digital Certificate upon successful completion.</data>
+  <data key="d9">program completion,reward</data>
+  <data key="d10">chunk-3737be66cf25b3630bc8bfcdedfb5adb</data>
+  <data key="d11">event.pdf</data>
+  <data key="d12">1765960753</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Artificial Intelligence" target="AI in Agriculture &amp; Career Opportunities">
+  <data key="d7">1.0</data>
+  <data key="d8">The program provides foundational knowledge on Artificial Intelligence and its applications in agriculture.</data>
+  <data key="d9">program content,technological application</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962369</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Your AgriStory" target="AI in Agriculture &amp; Career Opportunities">
+  <data key="d7">1.0</data>
+  <data key="d8">Your AgriStory collaborates with AgriHunars to organize the AI in Agriculture certification program.</data>
+  <data key="d9">collaboration,event organization</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962352</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AgriHunars" target="AI in Agriculture &amp; Career Opportunities">
+  <data key="d7">1.0</data>
+  <data key="d8">AgriHunars collaborates with Your AgriStory to organize the AI in Agriculture certification program.</data>
+  <data key="d9">collaboration,event organization</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962353</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AgriDoot" target="AI in Agriculture &amp; Career Opportunities">
+  <data key="d7">1.0</data>
+  <data key="d8">AgriDoot collaborates in the organization of the AI in Agriculture certification program.</data>
+  <data key="d9">event collaboration</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962354</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Farmvaidya AI" target="AI in Agriculture &amp; Career Opportunities">
+  <data key="d7">1.0</data>
+  <data key="d8">Farmvaidya AI collaborates in the organization of the AI in Agriculture certification program.</data>
+  <data key="d9">event collaboration</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962356</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Smart Farming" target="AI in Agriculture &amp; Career Opportunities">
+  <data key="d7">1.0</data>
+  <data key="d8">The program addresses Smart Farming as an innovative practice influenced by AI technologies.</data>
+  <data key="d9">agricultural innovation,program content</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962366</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Precision Agriculture" target="AI in Agriculture &amp; Career Opportunities">
+  <data key="d7">1.0</data>
+  <data key="d8">The program discusses Precision Agriculture methods as part of its curriculum on AI applications.</data>
+  <data key="d9">agricultural innovation,program content</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962368</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AI in Agriculture &amp; Career Opportunities" target="B.Sc / M.Sc / ABM Graduates">
+  <data key="d7">1.0</data>
+  <data key="d8">B.Sc / M.Sc / ABM Graduates are eligible participants for the AI in Agriculture certification program.</data>
+  <data key="d9">learning opportunity,program eligibility</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962357</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AI in Agriculture &amp; Career Opportunities" target="Working Professionals">
+  <data key="d7">1.0</data>
+  <data key="d8">Working Professionals are eligible participants for the AI in Agriculture certification program.</data>
+  <data key="d9">learning opportunity,program eligibility</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962359</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AI in Agriculture &amp; Career Opportunities" target="Early-Stage Startups">
+  <data key="d7">1.0</data>
+  <data key="d8">Early-Stage Startups are eligible participants for the AI in Agriculture certification program.</data>
+  <data key="d9">learning opportunity,program eligibility</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962364</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AI in Agriculture &amp; Career Opportunities" target="Agri Women Entrepreneurs">
+  <data key="d7">1.0</data>
+  <data key="d8">Agri Women Entrepreneurs are eligible participants for the AI in Agriculture certification program.</data>
+  <data key="d9">learning opportunity,program eligibility</data>
+  <data key="d10">chunk-3f9b8a38dcf1f78c2db9ef660a7ab6cb</data>
+  <data key="d11">events.pdf</data>
+  <data key="d12">1765962365</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>
