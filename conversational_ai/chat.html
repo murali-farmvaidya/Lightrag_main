@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FarmVaidya - Agriculture Assistant</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+      background: #f8fdf9;
+      min-height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    #chat-container {
+      width: 100%;
+      height: 100vh;
+      background: white;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .header {
+      background: white;
+      padding: 18px 32px;
+      border-bottom: 2px solid #e8f5e9;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 2px 8px rgba(76, 175, 80, 0.08);
+    }
+
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .new-chat-btn {
+      padding: 10px 24px;
+      background: linear-gradient(135deg, #66bb6a 0%, #4caf50 100%);
+      color: white;
+      border: none;
+      border-radius: 24px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 8px rgba(76, 175, 80, 0.25);
+    }
+
+    .new-chat-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(76, 175, 80, 0.35);
+    }
+
+    .logo {
+      font-size: 26px;
+      font-weight: 700;
+      color: #1b5e20;
+      letter-spacing: -0.5px;
+    }
+
+    .logo-text {
+      color: #66bb6a;
+    }
+
+    .user-info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 18px;
+      background: linear-gradient(135deg, #f1f8f4 0%, #e8f5e9 100%);
+      border-radius: 24px;
+      border: 1px solid #c8e6c9;
+    }
+
+    .avatar {
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #66bb6a 0%, #4caf50 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: 700;
+      font-size: 14px;
+      box-shadow: 0 2px 6px rgba(76, 175, 80, 0.3);
+    }
+
+    .username {
+      font-size: 14px;
+      color: #333;
+      font-weight: 500;
+    }
+
+    #messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 32px;
+      background: linear-gradient(135deg, #f8fdf9 0%, #ffffff 100%);
+    }
+
+    #messages::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    #messages::-webkit-scrollbar-track {
+      background: #f1f8f4;
+    }
+
+    #messages::-webkit-scrollbar-thumb {
+      background: #c8e6c9;
+      border-radius: 4px;
+    }
+
+    #messages::-webkit-scrollbar-thumb:hover {
+      background: #a5d6a7;
+    }
+
+    .welcome-screen {
+      text-align: center;
+      padding: 60px 20px;
+      color: #666;
+    }
+
+    .welcome-screen h2 {
+      font-size: 28px;
+      color: #2e7d32;
+      margin-bottom: 8px;
+    }
+
+    .welcome-screen .greeting {
+      font-size: 20px;
+      color: #333;
+      margin-bottom: 16px;
+    }
+
+    .welcome-screen .name {
+      color: #4caf50;
+      font-weight: 600;
+    }
+
+    .welcome-screen p {
+      font-size: 16px;
+      color: #666;
+    }
+
+    .suggestion-chips {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 24px;
+    }
+
+    .chip {
+      padding: 12px 20px;
+      background: white;
+      border: 2px solid #66bb6a;
+      border-radius: 24px;
+      color: #1b5e20;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 6px rgba(76, 175, 80, 0.1);
+    }
+
+    .chip:hover {
+      background: linear-gradient(135deg, #66bb6a 0%, #4caf50 100%);
+      color: white;
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+    }
+
+    .msg-wrapper {
+      margin-bottom: 28px;
+      animation: fadeIn 0.4s ease-in;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(15px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .msg-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .msg-avatar {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 14px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    }
+
+    .user-avatar {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+
+    .bot-avatar {
+      background: linear-gradient(135deg, #66bb6a 0%, #4caf50 100%);
+      color: white;
+    }
+
+    .msg-info {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .msg-sender {
+      font-weight: 700;
+      font-size: 14px;
+      color: #1b5e20;
+    }
+
+    .msg {
+      padding: 16px 20px;
+      border-radius: 16px;
+      max-width: 75%;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-left: 48px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    }
+
+    .user-msg {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      margin-left: auto;
+      margin-right: 0;
+    }
+
+    .bot-msg {
+      background: white;
+      color: #2c3e50;
+      border: 2px solid #e8f5e9;
+    }
+
+    .msg-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 6px;
+      margin-left: 48px;
+      font-size: 11px;
+      color: #81c784;
+    }
+
+    .msg-time {
+      color: #81c784;
+    }
+
+    .latency-badge {
+      background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+      color: #2e7d32;
+      font-size: 10px;
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-weight: 700;
+      border: 1px solid #a5d6a7;
+    }
+
+    .bot-msg h3 {
+      margin-top: 14px;
+      color: #1b5e20;
+      font-size: 17px;
+    }
+
+    .bot-msg ul {
+      padding-left: 22px;
+      margin-top: 10px;
+    }
+
+    .bot-msg li {
+      margin-bottom: 8px;
+    }
+
+    .bot-msg strong {
+      color: #2e7d32;
+    }
+
+    .bot-msg p {
+      margin-bottom: 8px;
+    }
+
+    .thinking-animation {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 16px 22px;
+      background: white;
+      border: 2px solid #e8f5e9;
+      border-radius: 16px;
+      max-width: 180px;
+      margin-left: 48px;
+      box-shadow: 0 2px 8px rgba(76, 175, 80, 0.1);
+    }
+
+    .dots {
+      display: flex;
+      gap: 5px;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #66bb6a 0%, #4caf50 100%);
+      animation: bounce 1.4s infinite ease-in-out;
+      box-shadow: 0 2px 4px rgba(76, 175, 80, 0.3);
+    }
+
+    .dot:nth-child(1) { animation-delay: -0.32s; }
+    .dot:nth-child(2) { animation-delay: -0.16s; }
+
+    @keyframes bounce {
+      0%, 80%, 100% { transform: scale(0.6); opacity: 0.5; }
+      40% { transform: scale(1); opacity: 1; }
+    }
+
+    .thinking-text {
+      font-size: 13px;
+      color: #4caf50;
+      font-style: italic;
+      font-weight: 600;
+    }
+
+    .realtime-latency {
+      display: inline-block;
+      background: linear-gradient(135deg, #fff9c4 0%, #fff59d 100%);
+      color: #f57f17;
+      font-size: 10px;
+      padding: 4px 10px;
+      border-radius: 12px;
+      margin-left: 8px;
+      font-weight: 700;
+      border: 1px solid #fdd835;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+
+    .typing-cursor {
+      display: inline-block;
+      width: 2px;
+      height: 16px;
+      background: #333;
+      margin-left: 2px;
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+
+    #input-container {
+      padding: 24px 32px;
+      background: white;
+      border-top: 2px solid #e8f5e9;
+      box-shadow: 0 -2px 12px rgba(76, 175, 80, 0.08);
+    }
+
+    #input-box {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      background: linear-gradient(135deg, #f8fdf9 0%, #f1f8f4 100%);
+      border-radius: 32px;
+      padding: 8px 8px 8px 22px;
+      border: 2px solid #e8f5e9;
+      transition: all 0.3s ease;
+    }
+
+    #input-box:focus-within {
+      border-color: #66bb6a;
+      box-shadow: 0 0 0 3px rgba(102, 187, 106, 0.1);
+    }
+
+    .ai-icon {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #66bb6a 0%, #4caf50 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: 700;
+      font-size: 16px;
+      cursor: pointer;
+      transition: transform 0.5s ease;
+      box-shadow: 0 2px 8px rgba(76, 175, 80, 0.3);
+    }
+
+    .ai-icon:hover {
+      transform: rotate(360deg) scale(1.05);
+    }
+
+    #user-input {
+      flex: 1;
+      border: none;
+      background: transparent;
+      font-size: 15px;
+      outline: none;
+      padding: 10px 0;
+    }
+
+    #user-input::placeholder {
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chat-container">
+  <div class="header">
+    <div class="header-left">
+      <div class="logo">farm<span class="logo-text">vaidya</span></div>
+    </div>
+    <div class="header-right">
+      <button class="new-chat-btn" onclick="newChat()">+ New Chat</button>
+      <div class="user-info">
+        <div class="avatar">M</div>
+        <span class="username">User</span>
+      </div>
+    </div>
+  </div>
+
+  <div id="messages">
+    <div class="welcome-screen">
+      <h2>👋</h2>
+      <p class="greeting">Hi <span class="name">User, Bot</span>, here!!</p>
+      <p>How can I assist you on your farming journey today?</p>
+      <div class="suggestion-chips">
+        <div class="chip" onclick="sendSuggestion('Coconut Fertilizers')">Coconut Fertilizers</div>
+        <div class="chip" onclick="sendSuggestion('Rhinoceros beetle Management')">Rhinoceros beetle Management</div>
+        <div class="chip" onclick="sendSuggestion('Nut Drop Control')">Nut Drop Control</div>
+      </div>
+    </div>
+  </div>
+
+  <div id="input-container">
+    <div id="input-box">
+      <div class="ai-icon">ai</div>
+      <input id="user-input" placeholder="Message Bot" />
+    </div>
+  </div>
+</div>
+
+<script>
+  const sessionId = "farmer1";
+  let isWelcomeScreen = true;
+  let conversationStartTime = null;
+  let latencyInterval = null;
+  let startTime = null;
+
+  function formatTime() {
+    const now = new Date();
+    return now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
+  }
+
+  function formatLatency(ms) {
+    return (ms / 1000).toFixed(2) + 's';
+  }
+
+  function addMessage(text, sender, latency = null) {
+    if (isWelcomeScreen) {
+      document.getElementById("messages").innerHTML = "";
+      isWelcomeScreen = false;
+    }
+
+    const wrapper = document.createElement("div");
+    wrapper.classList.add("msg-wrapper");
+
+    const header = document.createElement("div");
+    header.classList.add("msg-header");
+
+    const avatar = document.createElement("div");
+    avatar.classList.add("msg-avatar", sender === "user" ? "user-avatar" : "bot-avatar");
+    avatar.textContent = sender === "user" ? "R" : "ai";
+
+    const info = document.createElement("div");
+    info.classList.add("msg-info");
+
+    const senderName = document.createElement("div");
+    senderName.classList.add("msg-sender");
+    senderName.textContent = sender === "user" ? "You" : "Bot";
+
+    info.appendChild(senderName);
+    header.appendChild(avatar);
+    header.appendChild(info);
+
+    const msg = document.createElement("div");
+    msg.classList.add("msg", sender === "user" ? "user-msg" : "bot-msg");
+    
+    if (sender === "bot") {
+      msg.innerHTML = marked.parse(text);
+    } else {
+      msg.textContent = text;
+    }
+
+    const footer = document.createElement("div");
+    footer.classList.add("msg-footer");
+    
+    const time = document.createElement("span");
+    time.classList.add("msg-time");
+    time.textContent = formatTime();
+    footer.appendChild(time);
+    
+    if (latency && sender === "bot") {
+      const badge = document.createElement("span");
+      badge.classList.add("latency-badge");
+      badge.textContent = formatLatency(latency);
+      footer.appendChild(badge);
+    }
+
+    wrapper.appendChild(header);
+    wrapper.appendChild(msg);
+    wrapper.appendChild(footer);
+
+    document.getElementById("messages").appendChild(wrapper);
+    document.getElementById("messages").scrollTop = document.getElementById("messages").scrollHeight;
+  }
+
+  function showThinking() {
+    startTime = Date.now();
+    
+    const wrapper = document.createElement("div");
+    wrapper.classList.add("msg-wrapper");
+    wrapper.id = "thinking-indicator";
+
+    const header = document.createElement("div");
+    header.classList.add("msg-header");
+
+    const avatar = document.createElement("div");
+    avatar.classList.add("msg-avatar", "bot-avatar");
+    avatar.textContent = "ai";
+
+    const info = document.createElement("div");
+    info.classList.add("msg-info");
+
+    const senderName = document.createElement("div");
+    senderName.classList.add("msg-sender");
+    senderName.textContent = "Bot";
+
+    info.appendChild(senderName);
+    header.appendChild(avatar);
+    header.appendChild(info);
+
+    const thinking = document.createElement("div");
+    thinking.classList.add("thinking-animation");
+    thinking.innerHTML = `
+      <div class="dots">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+      <span class="thinking-text">Thinking...</span>
+      <span class="realtime-latency" id="realtime-latency">0.00s</span>
+    `;
+
+    wrapper.appendChild(header);
+    wrapper.appendChild(thinking);
+    document.getElementById("messages").appendChild(wrapper);
+    document.getElementById("messages").scrollTop = document.getElementById("messages").scrollHeight;
+
+    // Update latency in real-time
+    latencyInterval = setInterval(() => {
+      const elapsed = Date.now() - startTime;
+      const latencyEl = document.getElementById("realtime-latency");
+      if (latencyEl) {
+        latencyEl.textContent = formatLatency(elapsed);
+      }
+    }, 100);
+  }
+
+  function removeThinking() {
+    if (latencyInterval) {
+      clearInterval(latencyInterval);
+      latencyInterval = null;
+    }
+    const thinking = document.getElementById("thinking-indicator");
+    if (thinking) thinking.remove();
+  }
+
+  async function simulateTyping(text, sender, latency) {
+    removeThinking();
+    
+    if (isWelcomeScreen) {
+      document.getElementById("messages").innerHTML = "";
+      isWelcomeScreen = false;
+    }
+
+    const wrapper = document.createElement("div");
+    wrapper.classList.add("msg-wrapper");
+
+    const header = document.createElement("div");
+    header.classList.add("msg-header");
+
+    const avatar = document.createElement("div");
+    avatar.classList.add("msg-avatar", "bot-avatar");
+    avatar.textContent = "ai";
+
+    const info = document.createElement("div");
+    info.classList.add("msg-info");
+
+    const senderName = document.createElement("div");
+    senderName.classList.add("msg-sender");
+    senderName.textContent = "Bot";
+
+    info.appendChild(senderName);
+    header.appendChild(avatar);
+    header.appendChild(info);
+
+    const msg = document.createElement("div");
+    msg.classList.add("msg", "bot-msg");
+
+    const footer = document.createElement("div");
+    footer.classList.add("msg-footer");
+    
+    const time = document.createElement("span");
+    time.classList.add("msg-time");
+    time.textContent = formatTime();
+    footer.appendChild(time);
+    
+    if (latency) {
+      const badge = document.createElement("span");
+      badge.classList.add("latency-badge");
+      badge.textContent = formatLatency(latency);
+      footer.appendChild(badge);
+    }
+
+    wrapper.appendChild(header);
+    wrapper.appendChild(msg);
+    wrapper.appendChild(footer);
+    document.getElementById("messages").appendChild(wrapper);
+
+    const renderedHtml = marked.parse(text);
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = renderedHtml;
+    const fullText = tempDiv.textContent;
+
+    let currentText = '';
+    for (let i = 0; i < fullText.length; i++) {
+      currentText += fullText[i];
+      msg.innerHTML = marked.parse(currentText) + '<span class="typing-cursor"></span>';
+      document.getElementById("messages").scrollTop = document.getElementById("messages").scrollHeight;
+      await new Promise(resolve => setTimeout(resolve, 20));
+    }
+
+    msg.innerHTML = renderedHtml;
+  }
+
+  async function sendMessage() {
+    const input = document.getElementById("user-input");
+    const message = input.value.trim();
+    if (!message) return;
+
+    addMessage(message, "user");
+    input.value = "";
+
+    showThinking();
+
+    try {
+      const res = await fetch("http://127.0.0.1:8000/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ session_id: sessionId, message })
+      });
+
+      const data = await res.json();
+      const latency = Date.now() - startTime;
+
+      await simulateTyping(data.response, "bot", latency);
+    } catch (error) {
+      removeThinking();
+      addMessage("Sorry, I'm having trouble connecting. Please try again.", "bot");
+    }
+  }
+
+  function sendSuggestion(text) {
+    document.getElementById("user-input").value = text;
+    sendMessage();
+  }
+
+  async function newChat() {
+    try {
+      await fetch("http://127.0.0.1:8000/reset", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ session_id: sessionId })
+      });
+
+      document.getElementById("messages").innerHTML = `
+        <div class="welcome-screen">
+          <h2>👋</h2>
+          <p class="greeting">Hi <span class="name">User, Bot</span>, here!!</p>
+          <p>How can I assist you on your farming journey today?</p>
+          <div class="suggestion-chips">
+            <div class="chip" onclick="sendSuggestion('Coconut Fertilizers')">Coconut Fertilizers</div>
+            <div class="chip" onclick="sendSuggestion('Rhinoceros beetle Management')">Rhinoceros beetle Management</div>
+            <div class="chip" onclick="sendSuggestion('Nut Drop Control')">Nut Drop Control</div>
+          </div>
+        </div>
+      `;
+      isWelcomeScreen = true;
+    } catch (error) {
+      console.error("Error resetting chat:", error);
+    }
+  }
+
+  document.getElementById("user-input").addEventListener("keypress", e => {
+    if (e.key === "Enter") sendMessage();
+  });
+</script>
+
+</body>
+</html>

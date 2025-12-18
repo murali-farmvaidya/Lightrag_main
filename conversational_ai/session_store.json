@@ -1,0 +1,255 @@
+{
+  "farmer1": {
+    "history": [
+      {
+        "role": "user",
+        "content": "Tell me about biofactor in 5 points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biofactor is a notable organization in the field of bio-fertilizers and agricultural innovation. Here are five key points about Biofactor:\n\n1. **Innovative Leader**: Biofactor is a leading innovator in the bio-fertilizer industry, focusing on transforming agricultural practices using advanced biotechnologies to enhance soil health and improve crop yield.\n\n2. **Product Range**: The company offers a comprehensive range of bio-fertilizers, including products like Aadhaar Gold, Poshak Level-1, and various microorganisms aimed at providing essential nutrients to crops, promoting sustainable farming.\n\n3. **Technological Advancements**: Biofactor has developed cutting-edge technologies such as MAMSP (Microbe Metabolite Assisted Micron Sized Particles) technology, which enhances the efficiency of nutrient delivery to plants, improving their growth and productivity.\n\n4. **Research and Development**: The organization's R&D laboratory is recognized by the Department of Scientific and Industrial Research, and it has developed numerous proprietary microbial strains that are critical for boosting soil health and crop growth.\n\n5. **Commitment to Sustainability**: Biofactor emphasizes sustainability by promoting the use of bio-fertilizers, which reduce chemical fertilizer dependency, support soil health, and contribute to environmentally friendly agricultural practices."
+      },
+      {
+        "role": "user",
+        "content": "Recently i done soil testing report says highre phosphorus and potassium and low in nitrogen, suggest the biofertiliser?"
+      },
+      {
+        "role": "assistant",
+        "content": "What type of crops are you planning to grow or currently cultivating?"
+      },
+      {
+        "role": "user",
+        "content": "chilli"
+      },
+      {
+        "role": "assistant",
+        "content": "What is the current growth stage of your chili plants?"
+      },
+      {
+        "role": "user",
+        "content": "it is still in the growing stage"
+      },
+      {
+        "role": "assistant",
+        "content": "For chili plants in the growing stage, especially with a soil testing report showing higher phosphorus and potassium but low nitrogen, the following bio-fertilizer from Biofactor would be beneficial:\n\n1. **Aadhaar Gold**: This granular bio-fertilizer consortium is designed to enhance soil fertility and provide a balanced nutrient profile, including nitrogen-fixing capabilities. It can help boost nitrogen levels in the soil, supporting healthy growth for your chili plants.\n\n2. **Poshak Level-1**: This liquid fermented organic fertilizer is formulated specifically for the vegetative stage of plant growth, providing essential macro and micronutrients. It can enhance nutrient uptake and promote robust plant growth, addressing the nitrogen deficiency while complementing the available phosphorus and potassium.\n\nBoth products are suitable for improving growth and yield in chili cultivation while ensuring the plants receive the necessary nutrients tailored to their current stage of development."
+      },
+      {
+        "role": "user",
+        "content": "Suggest your product for sucking pest management in chilli?"
+      },
+      {
+        "role": "assistant",
+        "content": "For managing sucking pests in chili plants, the following Biofactor products are recommended:\n\n1. **DFNDR**: This is an eco-friendly solution specifically designed to target sucking pests. DFNDR acts as a natural shield against pests, promoting balanced plant growth and providing stress tolerance. It is safe for beneficial insects and pollinators.\n\n2. **Native Neem**: This botanical insecticide is effective against sap-sucking insects like aphids and whiteflies. It contains Azadirachtin and works by disrupting the reproduction and growth processes of pests.\n\nThese products can help effectively manage sucking pests in your chili crops while ensuring that the application is environmentally friendly and sustainable."
+      },
+      {
+        "role": "user",
+        "content": "My tomato plants are infested with soil born disease, suggest the control measures?"
+      },
+      {
+        "role": "assistant",
+        "content": "To control soil-borne diseases affecting your tomato plants, you can utilize the following measures with Biofactor's products:\n\n1. **Invictus**: This biological control mixture contains strains of Trichoderma viride and Trichoderma harzianum, which effectively combat various soil-borne pathogens such as Rhizoctonia solani, Phytophthora, and Fusarium. It promotes root vigor and helps in suppressing disease development.\n\n2. **Seed Treatment**: Prior to planting, treat your tomato seeds with Invictus by mixing it with well-decomposed farmyard manure (FYM) to enhance soil health and reduce pathogen presence. This can be applied during the seedling stage as well.\n\n3. **Soil Application**: After preparing the planting area, apply Invictus mixed with organic matter across the soil to further strengthen the root zone against disease threats. This application should occur before sowing or transplanting.\n\nUsing these measures will help create a healthier growing environment for your tomato plants and minimize the impact of soil-borne diseases."
+      },
+      {
+        "role": "user",
+        "content": "ఆధార్ గోల్డ్ ప్రోడక్ట్ ఏ విధంగా పనిచేస్తుంది?"
+      },
+      {
+        "role": "assistant",
+        "content": "ఆధార్ గోల్డ్ ప్రోడక్ట్ కీ ఉద్దేశాలు మరియు పనిచేసే విధానం కొన్ని ముఖ్యమైన అంశాలు:\n\n1. **నా విస్తీర్ణం**: ఆధార్ గోల్డ్ ఒక గ్రాన్యులర్ (Granular) బయోఫర్టిలైజర్ కలసివుండే కాంస్టియం, ఇది నేల లో ఉన్న మైక్రోబ్స్ ని ఉపయోగించి, నైట్రోజన్, ఫోస్ఫరస్ మరియు పొటాష్ ఫార్ట్ (NP), ఫరర్టిలిటి మరియు పంట ఉత్పత్తిని పెంచుతుంది.\n\n2. **మైక్రోబయల్స్‌లు**: ఈ ప్రోడక్ట్ లో ఉండే మైక్రోఆర్గానిజమ్స్ నేలలో నిట్రోజన్‌ను తినడం మరియు దాన్ని మొక్కలకు అందించడం, ఫోస్ఫరస్ మరియు పొటాష్ ని ఇప్పించడానికి సహాయపడతాయి.\n\n3. **పుష్టి ప్రాముఖ్యం**: ఆధార్ గోల్డ్ ప్రోడక్ట్ ఉపయోగాన్ని తక్కువగా ఇష్టపడితే, విద్యుత్తు లేదా నూనె పంటల చెరువులతో నిర్మించబడిన పంటకు ముఖ్యమైన గుణం నైట్రోజన్, ఫోస్ఫరస్ మరియు పొటాష్ అందించడం ద్వారా పనిచేస్తుంది.\n\n4. **సమయానికి వినియోగం**: పంట యొక్క వృద్ధి దశలో 4 కిలోలు/ఎకరా వినియోగించి, మెరుగైన ఫలం మరియు ఆకుల సంఖ్యను పెంచుతుంది, మొక్కల స్థితిని బలోపేతం చేస్తుంది.\n\n5. **సముపార్లు నాటం**: వ్యవసాయ ప్రక్రియలో, ఆధార్ గోల్డ్ ను సృష్టించిన మైక్రోబైయల్స్ ద్వారా, మట్టి ఆరోగ్యాన్ని పెంచడం మరియు ఆహారపు పోషకాలను అందించడం ద్వారా వ్యవసాయ వ్యవస్థలో నాణ్యత పెంచుతుంది.\n\nఇలా ఆధార్ గోల్డ్ ప్రోడక్ట్ జాగ్రత్తగా ఉపయోగించడం ద్వారా పంటల ఆరోగ్యాన్ని మరియు ఉత్పత్తిని మెరుగుపరిచే దిశలో పనిచేస్తుంది."
+      },
+      {
+        "role": "user",
+        "content": "పి ఫ్యాక్టర్ మరియు కే ఫ్యాక్టర్ కి తేడాలు ఏమిటి?"
+      },
+      {
+        "role": "assistant",
+        "content": "పి ఫ్యాక్టర్ మరియు కే ఫ్యాక్టర్ మధ్య తేడాలు:\n\n1. **పి ఫ్యాక్టర్**: \n   - ఇది ఫోస్ఫరస్-సొల్యూబిలైజింగ్ బయోప్లాంట్ (Phosphorus-Solubilizing Bacteria) గా పరిగణించబడుతుంది.\n   - పి ఫ్యాక్టర్ నేలలో ఉన్న ఫోస్ఫరస్ ని మొక్కలకు అందుబాటులో ఉన్న రూపంలోకి మార్చడానికి సహాయపడుతుంది.\n   - ఇది 1 కోట్ల నశ్యాలుకు (CFU) తగ్గిన జీవకణాలను కలిగి ఉంటుంది, ఇందులో జీవకణాలు పంటల ఉత్పత్తిని పెంచడానికి సహాయపడతాయి.\n\n2. **కే ఫ్యాక్టర్**: \n   - కే ఫ్యాక్టర్ పటాసియం ఆధారిత బయోఫర్టిలైజర్ గా గుర్తించబడుతుంది.\n   - ఇది నేలలో పొటాష్ ని మొక్కలకు అందించడం ద్వారా ఇంటరాక్ట్ కాబడుతుంది.\n   - కే ఫ్యాక్టర్ లో కూడా 1 కోట్ల నశ్యాల‌కు (CFU) తగ్గిన జీవకణాలను కలిగి ఉంటుంది.\n\nసంక్షేపంగా, పి ఫ్యాక్టర్ ఫోస్ఫరస్ ని అందించడంలో మరియు కే ఫ్యాక్టర్ పొటాష్ ని అందించడంలో సహాయపడుతుంది. ఇరు ఫ్యాక్టర్లు మొక్కల ఆరోగ్యం మరియు ఉత్పత్తికి ప్రాతినిధ్యం వహిస్తాయి, కానీ అవి ప్రత్యేకంగా నాణ్యతలు మరియు పనితీరులో వ్యత్యాసాలు కలిగి ఉన్నాయి."
+      },
+      {
+        "role": "user",
+        "content": "What is the AI in Agriculture certification program about?"
+      },
+      {
+        "role": "assistant",
+        "content": "The AI in Agriculture certification program is a focused learning initiative designed to introduce participants to the growing role of Artificial Intelligence (AI) in modern agriculture. It aims to bridge the gap between traditional agricultural practices and emerging AI-driven technologies. The program is suitable for students, professionals, and agri-entrepreneurs who are interested in exploring career opportunities and real-world applications of AI in agriculture.\n\nKey objectives of the program include:\n\n- Providing foundational knowledge of AI and its applications in agriculture.\n- Exploring career pathways and opportunities in AI-driven AgriTech.\n- Introducing participants to Generative AI and Voice Technology as innovative tools in agriculture.\n- Promoting awareness of smart farming and precision agriculture practices.\n\nThe program is scheduled for three days and is delivered online, offering digital certificates upon successful completion for participants."
+      },
+      {
+        "role": "user",
+        "content": "వ్యవసాయంలో AI కార్యక్రమం యొక్క రుసుము మరియు సమయం ఎంత?"
+      },
+      {
+        "role": "assistant",
+        "content": "వ్యవసాయంలో AI కార్యక్రమం యొక్క సమయం మరియు రుసుము ఈ విధంగా ఉన్నాయి:\n\n- **సమయం**: 3 రోజుల పాటు నిర్వహించబడుతుంది.\n- **తేదీలు**: 16 – 18 డిసెంబర్, 2025.\n- **సమయం**: మధ్యాహ్నం 4:00 PM నుండి 5:00 PM (IST).\n- **రుసుము**:  ₹299/- మాత్రమే.\n\nఈ కార్యక్రమం ఆన్‌లైన్‌లో నిర్వహించబడుతుంది, దీనిలో పాల్గొనడం ద్వారా నిమిత్తం డిజిటల్ సర్టిఫికెట్ పొందవచ్చు."
+      },
+      {
+        "role": "user",
+        "content": "Who can apply for the AI in Agriculture certification program?"
+      },
+      {
+        "role": "assistant",
+        "content": "The AI in Agriculture certification program is suitable for a diverse group of participants, including:\n\n- B.Sc/M.Sc/ABM Graduates\n- Working Professionals\n- Early-Stage Startups\n- Agri-Women Entrepreneurs\n- Individuals interested in AgriTech, AI, and smart farming innovations\n\nThis broad target audience aims to empower learners with knowledge relevant to future-ready agricultural careers."
+      },
+      {
+        "role": "user",
+        "content": "In which language and mode is the AI in Agriculture program conducted?"
+      },
+      {
+        "role": "assistant",
+        "content": "The AI in Agriculture certification program is conducted online through the Zoom application. The language of instruction is bilingual, offered in both Hindi and English to accommodate a wider range of participants."
+      },
+      {
+        "role": "user",
+        "content": "Will I get a certificate after completing the AI in Agriculture program? 02:24 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, participants who successfully complete the AI in Agriculture certification program will receive a digital certificate upon completion of the course."
+      },
+      {
+        "role": "user",
+        "content": "can you provide me the registration link to apply"
+      },
+      {
+        "role": "assistant",
+        "content": "You can register for the AI in Agriculture certification program using the following link: [https://lnkd.in/d--e6TQr](https://lnkd.in/d--e6TQr)."
+      },
+      {
+        "role": "user",
+        "content": "tell about the certification programs organized by Your AgriStory & AgriHunars"
+      },
+      {
+        "role": "assistant",
+        "content": "Your AgriStory and AgriHunars collaborate to organize various certification programs focused on enhancing knowledge and skills in agriculture, particularly in the realm of artificial intelligence. \n\nOne of the key certification programs is the **AI in Agriculture & Career Opportunities** program. This program is designed to introduce participants to the rapidly evolving role of AI in modern agriculture. It aims to bridge the gap between traditional agricultural practices and emerging technologies by providing foundational knowledge about AI applications in the agricultural sector.\n\nThe program covers several critical areas, including:\n\n- Smart farming solutions\n- Precision agriculture and data-driven decision-making\n- Career pathways in AI-driven AgriTech\n- Innovations in agriculture utilizing Generative AI and Voice Technology\n\nThe certification programs are suitable for a range of participants, including graduates, working professionals, early-stage startups, and agri-women entrepreneurs. Successful completion of the program offers a digital certificate. \n\nThese initiatives reflect a commitment to empowering individuals and advancing agricultural practices through innovative technology and education."
+      },
+      {
+        "role": "user",
+        "content": "who all are eligible"
+      },
+      {
+        "role": "assistant",
+        "content": "The following groups are eligible to apply for the AI in Agriculture certification program:\n\n- B.Sc/M.Sc/ABM Graduates\n- Working Professionals\n- Early-Stage Startups\n- Agri-Women Entrepreneurs\n- Individuals interested in AgriTech, AI, and smart farming innovations\n\nThis diverse eligibility criteria aims to accommodate a broad audience interested in enhancing their knowledge and skills in the field of agriculture and technology."
+      },
+      {
+        "role": "user",
+        "content": "what are program dates and fee"
+      },
+      {
+        "role": "assistant",
+        "content": "The program dates for the AI in Agriculture certification program are from **16th to 18th December 2025**. The fee for participating in the program is **₹299/-** only."
+      },
+      {
+        "role": "user",
+        "content": "who are the collaborators"
+      },
+      {
+        "role": "assistant",
+        "content": "The collaborators for the AI in Agriculture certification program are:\n\n- **Your AgriStory**\n- **AgriHunars**\n- **AgriDoot**\n- **Farmvaidya AI**\n\nThese organizations work together to organize the program, focusing on enhancing knowledge and skills related to AI in agriculture."
+      },
+      {
+        "role": "user",
+        "content": "कृषि में कृत्रिम बुद्धिमत्ता (AI) कार्यक्रम की फीस और समय क्या है?"
+      },
+      {
+        "role": "assistant",
+        "content": "कृषि में कृत्रिम बुद्धिमत्ता (AI) कार्यक्रम की समय और फीस इस प्रकार है:\n\n- **समय**: यह कार्यक्रम 3 दिनों तक चलेगा, जो **16 से 18 दिसंबर 2025** तक आयोजित किया जाएगा।\n- **समय**: प्रत्येक दिन कार्यक्रम का समय **दोपहर 4:00 PM से 5:00 PM (IST)** है।\n- **फीस**: कार्यक्रम की फीस **₹299/-** है। \n\nयह कार्यक्रम ऑनलाइन प्लेटफॉर्म के माध्यम से आयोजित किया जाएगा।"
+      },
+      {
+        "role": "user",
+        "content": "What is the AI in Agriculture certification program about?"
+      },
+      {
+        "role": "assistant",
+        "content": "The AI in Agriculture certification program is a focused learning initiative designed to introduce participants to the growing role of Artificial Intelligence (AI) in modern agriculture. It aims to bridge the gap between traditional agricultural practices and emerging AI-driven technologies. The program is suitable for students, professionals, and agri-entrepreneurs who are interested in exploring career opportunities and real-world applications of AI in agriculture.\n\nKey objectives of the program include:\n\n- Providing foundational knowledge of AI and its applications in agriculture.\n- Exploring career pathways and opportunities in AI-driven AgriTech.\n- Introducing participants to Generative AI and Voice Technology as innovative tools in agriculture.\n- Promoting awareness of smart farming and precision agriculture practices.\n\nThe program is scheduled for three days and is delivered online, offering digital certificates upon successful completion for participants."
+      },
+      {
+        "role": "user",
+        "content": "tell about the certification programs organized by Your AgriStory & AgriHunars"
+      },
+      {
+        "role": "assistant",
+        "content": "Your AgriStory and AgriHunars collaborate to organize various certification programs focused on enhancing knowledge and skills in agriculture, particularly in the realm of artificial intelligence. \n\nOne of the key certification programs is the **AI in Agriculture & Career Opportunities** program. This program is designed to introduce participants to the rapidly evolving role of AI in modern agriculture. It aims to bridge the gap between traditional agricultural practices and emerging technologies by providing foundational knowledge about AI applications in the agricultural sector.\n\nThe program covers several critical areas, including:\n\n- Smart farming solutions\n- Precision agriculture and data-driven decision-making\n- Career pathways in AI-driven AgriTech\n- Innovations in agriculture utilizing Generative AI and Voice Technology\n\nThe certification programs are suitable for a range of participants, including graduates, working professionals, early-stage startups, and agri-women entrepreneurs. Successful completion of the program offers a digital certificate. \n\nThese initiatives reflect a commitment to empowering individuals and advancing agricultural practices through innovative technology and education."
+      },
+      {
+        "role": "user",
+        "content": "who all are eligible"
+      },
+      {
+        "role": "assistant",
+        "content": "The following groups are eligible to apply for the AI in Agriculture certification program:\n\n- B.Sc/M.Sc/ABM Graduates\n- Working Professionals\n- Early-Stage Startups\n- Agri-Women Entrepreneurs\n- Individuals interested in AgriTech, AI, and smart farming innovations\n\nThis diverse eligibility criteria aims to accommodate a broad audience interested in enhancing their knowledge and skills in the field of agriculture and technology."
+      },
+      {
+        "role": "user",
+        "content": "what are program dates and fee"
+      },
+      {
+        "role": "assistant",
+        "content": "The program dates for the AI in Agriculture certification program are from **16th to 18th December 2025**. The fee for participating in the program is **₹299/-** only."
+      },
+      {
+        "role": "user",
+        "content": "who are the collaborators"
+      },
+      {
+        "role": "assistant",
+        "content": "The collaborators for the AI in Agriculture certification program are:\n\n- **Your AgriStory**\n- **AgriHunars**\n- **AgriDoot**\n- **Farmvaidya AI**\n\nThese organizations work together to organize the program, focusing on enhancing knowledge and skills related to AI in agriculture."
+      },
+      {
+        "role": "user",
+        "content": "can you provide me the registration link"
+      },
+      {
+        "role": "assistant",
+        "content": "You can register for the AI in Agriculture certification program using the following link: [https://lnkd.in/d--e6TQr](https://lnkd.in/d--e6TQr)."
+      },
+      {
+        "role": "user",
+        "content": "Tell me about biofactor in 5 points?"
+      },
+      {
+        "role": "assistant",
+        "content": "Biofactor is a notable organization in the field of bio-fertilizers and agricultural innovation. Here are five key points about Biofactor:\n\n1. **Innovative Leader**: Biofactor is a leading innovator in the bio-fertilizer industry, focusing on transforming agricultural practices using advanced biotechnologies to enhance soil health and improve crop yield.\n\n2. **Product Range**: The company offers a comprehensive range of bio-fertilizers, including products like Aadhaar Gold, Poshak Level-1, and various microorganisms aimed at providing essential nutrients to crops, promoting sustainable farming.\n\n3. **Technological Advancements**: Biofactor has developed cutting-edge technologies such as MAMSP (Microbe Metabolite Assisted Micron Sized Particles) technology, which enhances the efficiency of nutrient delivery to plants, improving their growth and productivity.\n\n4. **Research and Development**: The organization's R&D laboratory is recognized by the Department of Scientific and Industrial Research, and it has developed numerous proprietary microbial strains that are critical for boosting soil health and crop growth.\n\n5. **Commitment to Sustainability**: Biofactor emphasizes sustainability by promoting the use of bio-fertilizers, which reduce chemical fertilizer dependency, support soil health, and contribute to environmentally friendly agricultural practices."
+      },
+      {
+        "role": "user",
+        "content": "Recently i done soil testing report says higher phosphorus and potassium and low in nitrogen, suggest the biofertiliser?"
+      },
+      {
+        "role": "assistant",
+        "content": "For a soil testing report indicating higher phosphorus and potassium but low nitrogen, the following bio-fertilizers from Biofactor would be suitable:\n\n1. **Aadhaar Gold**: This granular bio-fertilizer consortium provides a complete NPK (Nitrogen, Phosphorus, and Potassium) nutrition. It includes nitrogen-fixing microorganisms that can help replenish the nitrogen levels in your soil while also enhancing soil fertility and crop productivity.\n\n2. **N-Factor**: This product consists of nitrogen-fixing bacteria that stabilize atmospheric nitrogen and convert it into a form that plants can absorb. It’s especially beneficial for increasing the nitrogen content in soils where it's lacking.\n\nThese products will help improve the nitrogen levels in your soil while complementing the existing phosphorus and potassium levels, which can lead to better overall plant health and yield."
+      },
+      {
+        "role": "user",
+        "content": "Suggest your product for sucking pest management in chilli?"
+      },
+      {
+        "role": "assistant",
+        "content": "For managing sucking pests in chili plants, the following Biofactor products are recommended:\n\n1. **DFNDR**: This is an eco-friendly solution specifically designed to target sucking pests. DFNDR acts as a natural shield against pests, promoting balanced plant growth and providing stress tolerance. It is safe for beneficial insects and pollinators.\n\n2. **Native Neem**: This botanical insecticide is effective against sap-sucking insects like aphids and whiteflies. It contains Azadirachtin and works by disrupting the reproduction and growth processes of pests.\n\nThese products can help effectively manage sucking pests in your chili crops while ensuring that the application is environmentally friendly and sustainable."
+      },
+      {
+        "role": "user",
+        "content": "ఆధార్ గోల్డ్ ప్రోడక్ట్ ఏ విధంగా పనిచేస్తుంది?"
+      },
+      {
+        "role": "assistant",
+        "content": "ఆధార్ గోల్డ్ ప్రోడక్ట్ కీ ఉద్దేశాలు మరియు పనిచేసే విధానం కొన్ని ముఖ్యమైన అంశాలు:\n\n1. **నా విస్తీర్ణం**: ఆధార్ గోల్డ్ ఒక గ్రాన్యులర్ (Granular) బయోఫర్టిలైజర్ కలసివుండే కాంస్టియం, ఇది నేల లో ఉన్న మైక్రోబ్స్ ని ఉపయోగించి, నైట్రోజన్, ఫోస్ఫరస్ మరియు పొటాష్ ఫార్ట్ (NP), ఫరర్టిలిటి మరియు పంట ఉత్పత్తిని పెంచుతుంది.\n\n2. **మైక్రోబయల్స్‌లు**: ఈ ప్రోడక్ట్ లో ఉండే మైక్రోఆర్గానిజమ్స్ నేలలో నిట్రోజన్‌ను తినడం మరియు దాన్ని మొక్కలకు అందించడం, ఫోస్ఫరస్ మరియు పొటాష్ ని ఇప్పించడానికి సహాయపడతాయి.\n\n3. **పుష్టి ప్రాముఖ్యం**: ఆధార్ గోల్డ్ ప్రోడక్ట్ ఉపయోగాన్ని తక్కువగా ఇష్టపడితే, విద్యుత్తు లేదా నూనె పంటల చెరువులతో నిర్మించబడిన పంటకు ముఖ్యమైన గుణం నైట్రోజన్, ఫోస్ఫరస్ మరియు పొటాష్ అందించడం ద్వారా పనిచేస్తుంది.\n\n4. **సమయానికి వినియోగం**: పంట యొక్క వృద్ధి దశలో 4 కిలోలు/ఎకరా వినియోగించి, మెరుగైన ఫలం మరియు ఆకుల సంఖ్యను పెంచుతుంది, మొక్కల స్థితిని బలోపేతం చేస్తుంది.\n\n5. **సముపార్లు నాటం**: వ్యవసాయ ప్రక్రియలో, ఆధార్ గోల్డ్ ను సృష్టించిన మైక్రోబైయల్స్ ద్వారా, మట్టి ఆరోగ్యాన్ని పెంచడం మరియు ఆహారపు పోషకాలను అందించడం ద్వారా వ్యవసాయ వ్యవస్థలో నాణ్యత పెంచుతుంది.\n\nఇలా ఆధార్ గోల్డ్ ప్రోడక్ట్ జాగ్రత్తగా ఉపయోగించడం ద్వారా పంటల ఆరోగ్యాన్ని మరియు ఉత్పత్తిని మెరుగుపరిచే దిశలో పనిచేస్తుంది."
+      },
+      {
+        "role": "user",
+        "content": "పి ఫ్యాక్టర్ మరియు కే ఫ్యాక్టర్ కి తేడాలు ఏమిటి?"
+      },
+      {
+        "role": "assistant",
+        "content": "పి ఫ్యాక్టర్ మరియు కే ఫ్యాక్టర్ మధ్య తేడాలు:\n\n1. **పి ఫ్యాక్టర్**: \n   - ఇది ఫోస్ఫరస్-సొల్యూబిలైజింగ్ బయోప్లాంట్ (Phosphorus-Solubilizing Bacteria) గా పరిగణించబడుతుంది.\n   - పి ఫ్యాక్టర్ నేలలో ఉన్న ఫోస్ఫరస్ ని మొక్కలకు అందుబాటులో ఉన్న రూపంలోకి మార్చడానికి సహాయపడుతుంది.\n   - ఇది 1 కోట్ల నశ్యాలుకు (CFU) తగ్గిన జీవకణాలను కలిగి ఉంటుంది, ఇందులో జీవకణాలు పంటల ఉత్పత్తిని పెంచడానికి సహాయపడతాయి.\n\n2. **కే ఫ్యాక్టర్**: \n   - కే ఫ్యాక్టర్ పటాసియం ఆధారిత బయోఫర్టిలైజర్ గా గుర్తించబడుతుంది.\n   - ఇది నేలలో పొటాష్ ని మొక్కలకు అందించడం ద్వారా ఇంటరాక్ట్ కాబడుతుంది.\n   - కే ఫ్యాక్టర్ లో కూడా 1 కోట్ల నశ్యాల‌కు (CFU) తగ్గిన జీవకణాలను కలిగి ఉంటుంది.\n\nసంక్షేపంగా, పి ఫ్యాక్టర్ ఫోస్ఫరస్ ని అందించడంలో మరియు కే ఫ్యాక్టర్ పొటాష్ ని అందించడంలో సహాయపడుతుంది. ఇరు ఫ్యాక్టర్లు మొక్కల ఆరోగ్యం మరియు ఉత్పత్తికి ప్రాతినిధ్యం వహిస్తాయి, కానీ అవి ప్రత్యేకంగా నాణ్యతలు మరియు పనితీరులో వ్యత్యాసాలు కలిగి ఉన్నాయి."
+      },
+      {
+        "role": "user",
+        "content": "कृषि में कृत्रिम बुद्धिमत्ता (AI) कार्यक्रम की फीस और समय क्या है?"
+      },
+      {
+        "role": "assistant",
+        "content": "कृषि में कृत्रिम बुद्धिमत्ता (AI) कार्यक्रम की समय और फीस इस प्रकार है:\n\n- **समय**: यह कार्यक्रम 3 दिनों तक चलेगा, जो **16 से 18 दिसंबर 2025** तक आयोजित किया जाएगा।\n- **समय**: प्रत्येक दिन कार्यक्रम का समय **दोपहर 4:00 PM से 5:00 PM (IST)** है।\n- **फीस**: कार्यक्रम की फीस **₹299/-** है। \n\nयह कार्यक्रम ऑनलाइन प्लेटफॉर्म के माध्यम से आयोजित किया जाएगा।"
+      }
+    ],
+    "followup_count": 2
+  }
+}
