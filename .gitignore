@@ -10,6 +10,8 @@ __pycache__/
 # Virtual Environment
 .venv/
 venv/
+# LightRAG runtime data
+rag_storage/
 
 # Enviroment Variable Files
 .env
